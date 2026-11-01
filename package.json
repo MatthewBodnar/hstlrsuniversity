@@ -1,0 +1,13 @@
+{
+  "name": "fieldnotes-reader",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An illustrated, chapter-based business field guide.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/validate.mjs"
+  },
+  "engines": { "node": ">=20.11" }
+}
