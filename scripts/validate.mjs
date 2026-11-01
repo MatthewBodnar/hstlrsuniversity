@@ -9,7 +9,7 @@ const root = resolve(import.meta.dirname,'..');
 assert.equal(chapters.length,18,'Expected eighteen editorial chapters');
 assert.equal(Object.keys(figures).length,18,'Expected eighteen figures');
 assert.equal(new Set(chapters.map(c=>c.id)).size,18,'Duplicate chapter anchor');
-assert(wordCount>7000,'Reading content unexpectedly missing');
+assert(wordCount>=4500 && wordCount<=6500,'Keep the condensed reading between 4,500 and 6,500 words');
 for(const [i,c] of chapters.entries()) {
   assert(/^[a-z][a-z-]+$/.test(c.id),'Invalid chapter slug');
   assert(c.title && c.intro && c.body && c.takeaway && c.sources,'Incomplete chapter');
@@ -23,6 +23,8 @@ const pages = [['index.html',renderEntry()],['business-fieldguide/index.html',re
 for(const [file,expected] of pages) {
   const html=await readFile(resolve(root,file),'utf8');
   assert.equal(html,expected,`Generated page is stale: ${file}. Run npm run build.`);
+  const visibleCopy = html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,' ').replace(/<[^>]*>/g,' ');
+  assert(!/\b(the source|the speaker|the narrator|according to|the discussion|transcripts?|self.reported|editorial synthesis|anonymized|hypothetical)\b/i.test(visibleCopy),'Keep the page in a direct voice');
   assert.equal((html.match(/<h1\b/g)||[]).length,1,'Each page needs exactly one main heading');
   const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
   assert.equal(new Set(ids).size,ids.length,`Duplicate ID in ${file}`);

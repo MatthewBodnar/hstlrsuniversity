@@ -38,7 +38,7 @@ document.addEventListener('keydown', (event) => {
 const searchIndex = chapters.map(chapter => ({
   id: chapter.id, title: $('h2', chapter).textContent,
   number: chapter.dataset.number, topic: chapter.dataset.topic,
-  text: $('.chapter-content', chapter).innerText.replace(/\s+/g, ' ').trim()
+  text: $$('.chapter-intro, .chapter-content, .principle p:last-child', chapter).map(el => el.innerText).join(' ').replace(/\s+/g, ' ').trim()
 }));
 function renderSearch() {
   const query = $('#search-input').value.trim();

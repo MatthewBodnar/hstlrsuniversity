@@ -1,8 +1,10 @@
 # Fieldnotes
 
-An illustrated, long-form business reading guide. The first reading page is available at `business-fieldguide/`; the root opens that page. The structure is ready for additional guides without inventing unfinished navigation.
+A blunt, conversational business reading page. The first reading page is available at `business-fieldguide/`; the root opens that page. The structure is ready for additional guides without inventing unfinished navigation.
 
-![Desktop reading preview](docs/preview.jpg)
+![Desktop cover preview](docs/preview.jpg)
+
+[See the direct-address reading layout](docs/reading-preview.jpg)
 
 ## Run
 
@@ -35,7 +37,7 @@ The repository root can be served directly. For Pages hosting, choose the `main`
 
 ## Content and artwork
 
-This is an original edited synthesis of two supplied transcripts. Repeated passages and irregular source numbering have been consolidated, and personal and organizational identities have been removed. Original transcripts and private research notes are not included. Chapter numbers represent the editorial reading order, not a claim to recover a missing source catalogue.
+This is a condensed direct-address adaptation of two supplied transcripts, retaining literal phrasing, emotional emphasis and the spoken rhythm. Repeated passages and irregular source numbering have been consolidated, and personal and organizational identities have been removed. Original transcripts and private research notes are not included. Chapter numbers represent the editorial reading order, not a claim to recover a missing source catalogue.
 
 See [the coverage map](docs/COVERAGE.md) for thematic traceability and [artwork notes](docs/ARTWORK.md) for the original visual brief. Numerical anecdotes, hypotheses and added illustrations are distinguished in the page. No quiz or assessment section is included.
 

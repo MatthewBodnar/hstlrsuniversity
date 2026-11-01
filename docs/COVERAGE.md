@@ -4,6 +4,8 @@ Two supplied transcripts were read in full. Source times below are local to each
 
 The spoken numbering skips and restarts, with several unnumbered transitions. The source promises a larger numbered catalogue than can be reliably reconstructed from the supplied text. Eighteen chapter numbers therefore describe the editorial structure. The final supplied sentence stops mid-example; the guide does not invent the missing ending.
 
+The public page is a condensed direct-address adaptation. It speaks to the reader in the delivery of the original recording, preserving literal phrases and the blunt, conversational rhythm. Attribution commentary belongs in this developer document, not in the reading experience.
+
 | Chapter | Themes covered | Representative source ranges |
 | --- | --- | --- |
 | 01 · Speed & execution | Speed without losing necessary quality; shorter feedback loops; website lead times; knowing-doing gap; initiative and the fish-stall example | A 00:03:16–00:14:55; A 03:11–03:15; B 02:33:29–02:37:10; B 03:53:16–03:56:38 |
@@ -19,7 +21,7 @@ The spoken numbering skips and restarts, with several unnumbered transitions. Th
 | 11 · Roles, strengths & loyalty | Measurable role contribution; direct and indirect value; specialists; skills matching; talent-first relationships; reciprocal loyalty; motivation beyond pay; 72/10 staffing anecdote | A 01:01:36–01:15:58; A 02:55–02:57; A 03:42–03:48; B 00:26:50–00:32:31; B 04:02:10–04:06:29; B 04:20:48–04:26:49 |
 | 12 · Leadership & continuity | Password and sales dependencies; Friday knowledge transfer; reward sharing; lead by example; initiative boundaries; ten-day founder absence | A 03:05–03:07; A 03:42–03:48; B 02:27:50–02:29:24; B 03:41:16–03:44:55; B 03:53:16–03:56:38 |
 | 13 · Spending & bottlenecks | Frugality versus underinvestment; office costs; €15,000 automation proposal; camera/4K example; acquisition versus fulfillment constraints; timing | A 01:15:58–01:31:58; B 00:45:35–01:02:06 |
-| 14 · Runway & responsibility | Owner reserves; obligations versus surplus; cash timing; 90-day terms; avoiding endless rescue; debt negotiation anecdote; creditor evasion distinguished from healthy economics | A 01:24:29–01:31:58; A 02:20–02:23; B 04:06:30–04:15:01 |
+| 14 · Runway & responsibility | Owner reserves; obligations versus surplus; cash timing; 90-day terms; avoiding endless rescue; cash commitments; responsible owner income | A 01:24:29–01:31:58; A 02:20–02:23; B 04:06:30–04:15:01 |
 | 15 · Recovery & reputation | Calm problem ownership; outages; controlled fallback; order/payment reconciliation; complaints; active follow-up; low-cost changes and causality limits | A 01:31:58–01:33:53; A 02:23–02:26; A 02:51–02:55; A 03:56–04:02:32; B 03:18:06–03:24:09 |
 | 16 · Payments & resilience | Flexible payment; coordination capacity; $5,000/$4,500 roof-tile barter; channel, provider and access redundancy; resilience terminology | B 00:00:02–00:16:59; B 03:24:10–03:41:15 |
 | 17 · Adaptation & opportunity | New needs following disruption; ten creators/5% referral illustration; changing media economics; market windows; 10.99/0.99 promotion and data-recovery limits | A 01:24:29–01:31:58; A 03:24–03:30; B 02:46:48–02:52:25 |
@@ -30,7 +32,7 @@ The spoken numbering skips and restarts, with several unnumbered transitions. Th
 - Promotional introductions and repeated claims have been compressed. The source's anti-education assertions are not established by its anecdotes; the guide retains the knowledge-to-action distinction.
 - All personal and organizational identities have been replaced with descriptions. Source transcripts, contact details and private notes are excluded from the repository.
 - Offensive rhetoric and adult-service details are reduced to the business mechanism when the concrete detail adds no useful explanation.
-- Deceptive pre-orders, fabricated stock, fake urgency, invented updates, unsupported outcome claims, creditor evasion and exploitative staffing are identified as source tactics rather than quietly converted into recommendations.
+- Deceptive pre-orders, fabricated stock, fake urgency, invented updates, creditor evasion and exploitative staffing are omitted or replaced by short, direct statements about delivering promises and keeping real numbers. No reporter-style commentary is placed around the prose.
 - Legal-evasion anecdotes are not reproduced as instructions. No jurisdiction-specific legal, tax or financial rule is inferred from them.
 - Currency is retained where clear. Unclear currency is left unspecified. Source figures are not independently audited. Historical prices are not current quotations.
 - Numerical corrections: $17 → $40 is +135.3% in order value; a full refund means the final revenue is $40, not $57. A 20% → 30% margin change is ten percentage points and a 50% profit increase at fixed revenue. $5,000 → $4,500 is a $500 / 10% haircut.
