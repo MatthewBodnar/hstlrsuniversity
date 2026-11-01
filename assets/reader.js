@@ -21,6 +21,11 @@ for (const dialog of $$('dialog')) {
   for (const link of $$('a[href^="#"]', dialog)) link.addEventListener('click', () => dialog.close());
 }
 document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    const openDialog = $('dialog[open]');
+    if (openDialog) { event.preventDefault(); openDialog.close(); }
+    return;
+  }
   const editing = event.target.matches('input, textarea, [contenteditable="true"]');
   if ((event.key.toLowerCase() === 'k' && (event.metaKey || event.ctrlKey)) || (event.key === '/' && !editing)) {
     event.preventDefault();
@@ -32,12 +37,13 @@ document.addEventListener('keydown', (event) => {
 // Search the actual, pre-rendered reading content; the content is available without JS.
 const searchIndex = chapters.map(chapter => ({
   id: chapter.id, title: $('h2', chapter).textContent,
-  number: chapter.dataset.number, text: $('.chapter-content', chapter).innerText.replace(/\s+/g, ' ').trim()
+  number: chapter.dataset.number, topic: chapter.dataset.topic,
+  text: $('.chapter-content', chapter).innerText.replace(/\s+/g, ' ').trim()
 }));
 function renderSearch() {
   const query = $('#search-input').value.trim();
   const words = query.toLocaleLowerCase().split(/\s+/).filter(Boolean);
-  const results = query ? searchIndex.filter(c => words.every(word => `${c.title} ${c.text}`.toLocaleLowerCase().includes(word))) : searchIndex.slice(0, 6);
+  const results = query ? searchIndex.filter(c => words.every(word => `${c.title} ${c.topic} ${c.text}`.toLocaleLowerCase().includes(word))) : searchIndex.slice(0, 6);
   const container = $('#search-results');
   container.replaceChildren();
   $('#search-count').textContent = query ? `${results.length} ${results.length === 1 ? 'chapter' : 'chapters'} found` : 'A few places to begin';

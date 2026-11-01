@@ -2,6 +2,8 @@
 
 An illustrated, long-form business reading guide. The first reading page is available at `business-fieldguide/`; the root opens that page. The structure is ready for additional guides without inventing unfinished navigation.
 
+![Desktop reading preview](docs/preview.jpg)
+
 ## Run
 
 Use Node 20.11 or later. There are no application dependencies, accounts, API keys or external font/image services.
