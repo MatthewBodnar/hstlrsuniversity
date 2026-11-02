@@ -1,6 +1,7 @@
+import { chapters } from '../src/chapters.mjs';
 import { mkdir, writeFile, cp, rm } from 'node:fs/promises';
 import { resolve } from 'node:path';
-import { renderPage, renderEntry, wordCount } from '../src/template.mjs';
+import { renderPage, renderEntry, wordCount, figureCount } from '../src/template.mjs';
 const root = resolve(import.meta.dirname, '..');
 await mkdir(resolve(root, 'business-fieldguide'), { recursive:true });
 await writeFile(resolve(root, 'business-fieldguide/index.html'), renderPage());
@@ -8,4 +9,4 @@ await writeFile(resolve(root, 'index.html'), renderEntry());
 await rm(resolve(root, 'dist'), { recursive:true, force:true });
 await mkdir(resolve(root, 'dist'), { recursive:true });
 for (const path of ['index.html','business-fieldguide','assets','.nojekyll']) await cp(resolve(root,path),resolve(root,'dist',path),{recursive:true});
-console.log(`Built 18 pre-rendered chapters, ${wordCount.toLocaleString('en-GB')} words, and all local assets.`);
+console.log(`Built ${chapters.length} pre-rendered chapters, ${wordCount.toLocaleString('en-GB')} words, ${figureCount} infographics, and all local assets.`);

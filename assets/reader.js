@@ -34,11 +34,18 @@ document.addEventListener('keydown', (event) => {
   }
 });
 
-// Search the actual, pre-rendered reading content; the content is available without JS.
+// Read text nodes without forcing layout across a book-length document.
+function readingText(element) {
+  const walker=document.createTreeWalker(element,NodeFilter.SHOW_TEXT);
+  const chunks=[];
+  while(walker.nextNode()) chunks.push(walker.currentNode.textContent);
+  return chunks.join(' ').replace(/\s+/g,' ').replace(/\s+([,.!?;:])/g,'$1').trim();
+}
+// Search all pre-rendered chapters; reading itself does not require scripting.
 const searchIndex = chapters.map(chapter => ({
   id: chapter.id, title: $('h2', chapter).textContent,
   number: chapter.dataset.number, topic: chapter.dataset.topic,
-  text: $$('.chapter-intro, .chapter-content, .principle p:last-child', chapter).map(el => el.innerText).join(' ').replace(/\s+/g, ' ').trim()
+  text: $$('.chapter-intro, .chapter-content, .principle p:last-child', chapter).map(readingText).join(' ').replace(/\s+/g, ' ').trim()
 }));
 function renderSearch() {
   const query = $('#search-input').value.trim();
@@ -100,7 +107,7 @@ function updateReading() {
   const top = reading.getBoundingClientRect().top + window.scrollY;
   const height = reading.offsetHeight - window.innerHeight;
   const progress = Math.min(100, Math.max(0, (window.scrollY - top) / Math.max(1, height) * 100));
-  document.documentElement.style.setProperty('--read-progress', `${progress}%`);
+  $('.header-progress').style.width = `${progress}%`;
   $('#progress-number').textContent = `${Math.round(progress)}%`;
   let current = chapters[0];
   for (const chapter of chapters) {
@@ -116,6 +123,13 @@ function updateReading() {
     }
     $('#current-chapter').textContent = `${active.dataset.number} / ${String(chapters.length).padStart(2,'0')}`;
     $('#mobile-current').textContent = $('h2', active).textContent;
+    const sidebar=$('.reader-sidebar');
+    const selected=$('.toc-link[aria-current]',sidebar);
+    if(sidebar.offsetParent!==null && selected) {
+      const bounds=sidebar.getBoundingClientRect(), item=selected.getBoundingClientRect();
+      if(item.top<bounds.top+50)sidebar.scrollTop-=bounds.top+50-item.top;
+      else if(item.bottom>bounds.bottom-35)sidebar.scrollTop+=item.bottom-bounds.bottom+35;
+    }
   }
   if (window.scrollY >= top - 100 && Date.now() - lastSaved > 1500) {
     storage.set('position', { id: active.id, progress: Math.round(progress) });
@@ -128,7 +142,11 @@ window.addEventListener('scroll', () => {
 }, { passive: true });
 window.addEventListener('resize', updateReading);
 window.addEventListener('load', updateReading);
-const saved = storage.get('position');
+let saved = storage.get('position');
+if(saved && !chapters.some(c=>c.id===saved.id)) {
+  const migrated=document.getElementById(saved.id)?.closest('.chapter');
+  if(migrated)saved={...saved,id:migrated.id};
+}
 if (saved && saved.progress > 2 && saved.progress < 99 && chapters.some(c => c.id === saved.id)) {
   const link = $('#resume-link');
   link.href = `#${saved.id}`; link.hidden = false;

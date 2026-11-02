@@ -1,0 +1,929 @@
+{
+  "chapters": [
+    {
+      "id": "hu2a-01",
+      "title": "Build a bridge for the payment",
+      "short": "Make paying easy",
+      "intro": "A customer wants to pay. Before I find a reason to refuse, I ask whether I can make the exchange work.",
+      "takeaway": "Remove needless payment friction, and price the real job of turning the offer into something you can deliver.",
+      "source": {
+        "file": "HU2",
+        "start": "00:00:02",
+        "end": "00:08:10"
+      },
+      "body": "<p>Let me put this another way. I can spend all day telling you how capable I am, but sooner or later somebody asks for a job I have never done. What happens then? Do I say no immediately, or do I work out what it would take? My business card was deliberately over the top. It listed all kinds of impossible jobs. People picked it up and asked whether I was joking. The point behind it was serious: <strong>if the work can be done, I can help organize it for a price.</strong></p>\n<p class=\"spoken-dialogue\" data-verbatim>Maybe I have to hire someone else.</p>\n<p class=\"hit\" data-verbatim>You need to create a golden bridge for people to pay you money.</p>\n<p>I used an offshore oil rig as the ridiculous example. Somebody wants a rig in extremely rough seas. I make up a price of <mark>$6.6 billion</mark>. That is a thought experiment, not a price list. The number makes the point obvious: enough budget changes who I can hire and what resources I can bring together. In another example, somebody pays me six billion for a space project and I find a specialist who can do it for five. I am coordinating expertise, accepting responsibility and keeping a margin. I do not need to pretend I personally know how to build every part.</p>\n<!--figure:b1-2a-coordinate-->\n<p>The same thinking applies at a much smaller scale. Somebody wants to buy, but they do not want to use my checkout. Can they make a bank transfer? Can they use a payment method I already support? Can we agree on the currency? I do not want my own convenience to become a wall between a willing customer and a sensible deal. <em>Make the bridge easy to cross.</em> A payment option that nobody understands, an unanswered invoice question, or a checkout that fails can waste all the work I did to create demand.</p>\n<p class=\"spoken-dialogue\" data-verbatim>It has to be very, very easy to give you money.</p>\n<p>I knew an event promoter whose sponsors sometimes wanted to pay in stock. One roofing business wanted its name around the fighting cage, but it did not want to hand over cash. It had roof tiles. My friend could reject the sponsor, or he could ask what the tiles were worth and who would buy them. He took the stock and called somebody who could move it.</p>\n<p class=\"spoken-dialogue\">I have $5,000 worth of roof tiles. Take them for $4,500 and collect them.</p>\n<!--figure:b1-2a-tiles-->\n<p>He gave up $500 in value to turn the stock into usable cash, but he kept a deal he might otherwise have lost. That missing $500 matters. So does the work of finding the buyer. A pile of materials is not already spendable money. I need a realistic price, a real buyer and an honest record of the exchange. The lesson is flexibility, not accepting any pile of sh*t somebody says is valuable. If I can understand the value, handle the conversion and still deliver what I promised, I have more ways to do business.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-coordinate",
+          "kind": "flow",
+          "title": "I can organize the work",
+          "caption": "I turn the request into a price, a team, and a promise I can deliver.",
+          "items": [
+            {
+              "label": "Request",
+              "text": "Understand what the customer actually needs."
+            },
+            {
+              "label": "Price",
+              "text": "Include the resources and coordination needed."
+            },
+            {
+              "label": "Expertise",
+              "text": "Bring in people who can do the work."
+            },
+            {
+              "label": "Delivery",
+              "text": "Remain responsible for the promise."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-tiles",
+          "kind": "ledger",
+          "title": "From roof tiles to cash",
+          "caption": "The sponsorship example gives up $500 to turn stock into usable payment.",
+          "rows": [
+            {
+              "label": "Stock accepted",
+              "value": "$5,000"
+            },
+            {
+              "label": "Value given up for resale",
+              "value": "−$500"
+            }
+          ],
+          "total": {
+            "label": "Cash received",
+            "value": "$4,500"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hu2a-02",
+      "title": "Do not put the whole business behind one door",
+      "short": "Keep more than one route",
+      "intro": "An account can fail. A channel can disappear. I want another route ready before that happens.",
+      "takeaway": "Make the business resilient by preparing independent ways to reach customers and collect payment.",
+      "source": {
+        "file": "HU2",
+        "start": "00:08:13",
+        "end": "00:16:59"
+      },
+      "body": "<p>I have made payment easy. Now I need to ask a different question: <strong>what happens if the way I take payment stops working?</strong> If my whole business depends on one account and that account goes down, somebody else has an enormous amount of control over my day. I can have customers, staff and a good offer, yet still be unable to trade. That is a bad place to be.</p>\n<p class=\"spoken-dialogue\" data-verbatim>The easiest way to be anti-fragile is to diversify.</p>\n<p>The event promoter gives me a simple example again. He has relationships with sponsors, people who buy materials, people who supply drinks and people who can organize a show. He does not have only one connection through which every useful thing must pass. His options are practical. If one arrangement becomes difficult, he can speak to somebody else and keep working. I called this being anti-fragile. The plain meaning I want you to keep is <em>harder to stop because there is another route</em>.</p>\n<!--figure:b1-2a-payment-network-->\n<p>Do this with attention as well as money. I want more than one place where people can find me. A long-form video channel does a different job from a short update, an email or a private community. Even reaching the same people in different places has value. The point is not simply collecting more account names. It is knowing that one missing channel does not erase the relationship I built with my audience.</p>\n<p>I had bank accounts in nineteen countries. I spent time each year setting up another route and keeping options open when I travelled. You do not need to copy the scale to understand the business problem. <strong>If every useful connection runs through one gate, that gate is a weak point.</strong> A backup should be a route I can actually use, not a name sitting in a document that nobody has checked.</p>\n<p>Here is the job I can give somebody: find the alternatives, understand what they require, get the appropriate accounts approved, and make sure we know how to switch. I suggested having a replacement version of the site ready instead of trying to build everything after the original route breaks. The same idea applies to retaining the information I need to contact customers and fulfill orders.</p>\n<!--figure:b1-2a-backup-ready-->\n<p class=\"hit\">A backup I have never prepared is a hope. A backup I can use is an option.</p>\n<p>More routes also mean more things to look after. I have to know which one is active, where the money is arriving and who is responsible for it. I am not trying to make the business mysterious to my own team. I am trying to make it dependable. The useful question is simple: if the main route stopped today, could we still reach our customers, explain what is happening and complete the work? If I cannot answer that, I have found a piece of work worth doing.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-payment-network",
+          "kind": "network",
+          "title": "Keep alternatives around the business",
+          "caption": "No single provider should silently become the only way the operation can work.",
+          "items": [
+            {
+              "label": "Checkout",
+              "text": "The normal route for an online order."
+            },
+            {
+              "label": "Transfer",
+              "text": "An agreed alternative for a customer."
+            },
+            {
+              "label": "Customer contact",
+              "text": "A way to explain an interruption."
+            },
+            {
+              "label": "Backup channel",
+              "text": "Another place the audience can reach me."
+            }
+          ],
+          "center": "The business"
+        },
+        {
+          "id": "b1-2a-backup-ready",
+          "kind": "steps",
+          "title": "Prepare before the interruption",
+          "caption": "The preparation matters more than the number of account names.",
+          "items": [
+            {
+              "label": "Find",
+              "text": "Identify a useful alternative."
+            },
+            {
+              "label": "Approve",
+              "text": "Complete the requirements to use it."
+            },
+            {
+              "label": "Prepare",
+              "text": "Know how the switch will work."
+            },
+            {
+              "label": "Maintain",
+              "text": "Keep the route usable and understood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-03",
+      "title": "Lead from the front, then get through the quiet days",
+      "short": "Effort and momentum",
+      "intro": "I cannot ask the team to care while I stand outside the work. I also cannot wait for a perfect mood before I start.",
+      "takeaway": "Show the standard, define what needs finishing, and build progress that gives the team a reason to keep going.",
+      "source": {
+        "file": "HU2",
+        "start": "00:17:08",
+        "end": "00:26:49"
+      },
+      "body": "<p>It was late when I filmed this part. I had been working since seven in the morning, and now it was around eleven at night. The person holding the camera had also worked, but my day included much more than the time he could see. That is a difference I learned as the owner: the visible job is only part of the job. Somebody has to deal with the technology, the direction, the decisions and everything that went wrong before the camera came out.</p>\n<p class=\"spoken-dialogue\" data-verbatim>You can only lead from the front.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Leading is by setting an example.</p>\n<p>When I ran the live-streaming studio, the performers could see the hours they spent online. They could not always see the hours I spent dealing with the rest of the operation. I had to keep the system working, think about the offer, help people improve and handle the problems. If I want urgency from people around me, <strong>I have to make urgency visible in my own behavior</strong>. Giving instructions without doing my part is not much of an example.</p>\n<!--figure:b1-2a-visible-work-->\n<p>I also look at what a working day actually produces. People can sit in an office, answer messages, make drinks and talk about being busy without moving the company very far. More activity is not automatically more useful work. Before I assume I need more staff, I want to understand what the existing team is doing, what is blocking them and what a finished result looks like.</p>\n<p>I am blunt about finishing. A task is done or it is not done. Saying I intended to do it does not give the customer the result. That does not turn people into machines. It does mean I need to separate real capacity problems from the habit of drifting away whenever the work becomes uncomfortable. If the plan cannot be carried out, I have to change the plan or the support around it. If I simply keep postponing it, I still have the same unfinished job tomorrow.</p>\n<p class=\"hit\" data-verbatim>I believe in finished or not finished.</p>\n<p>Here is something else I noticed from fighting. When I was winning, I felt full of energy. When I was getting beaten, everything felt harder. Business can feel like that. When the orders arrive and people respond, I want to get up and work. When the room is quiet, the offer is ignored and nothing seems to happen, I start asking why I am bothering. <em>The hard part is often the period before the encouragement arrives.</em></p>\n<!--figure:b1-2a-motivation-loop-->\n<p>I saw it with new performers. A quiet room gives them very little feedback. Once the audience becomes busy, they find it easier to stay involved. I wanted them to learn how to use the slow period rather than treating silence as a reason to stop. The same applies to a new business. Make the next useful change, talk to the next customer and look for a small piece of evidence that the work is connecting.</p>\n<p class=\"hit\">Do not wait for winning to make you work. Do enough useful work to give yourself a chance to win.</p>\n<p>That is the connection between effort and motivation I care about. A result can improve my mood, but my mood cannot be the only thing that decides whether a necessary job gets done. I want a clear next action, a standard I can demonstrate, and progress the whole team can see.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-visible-work",
+          "kind": "comparison",
+          "title": "The visible task and the owner’s wider job",
+          "caption": "The studio example separates a visible performance from the work keeping it possible.",
+          "items": [
+            {
+              "label": "Visible task",
+              "text": "The scheduled work the customer or performer sees."
+            },
+            {
+              "label": "Wider responsibility",
+              "text": "Technical problems, direction, support and decisions."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-motivation-loop",
+          "kind": "flow",
+          "title": "Progress can build momentum",
+          "caption": "Quiet periods need useful action before they can offer much encouragement.",
+          "items": [
+            {
+              "label": "Useful action",
+              "text": "Improve, contact, produce or deliver."
+            },
+            {
+              "label": "Response",
+              "text": "Notice what customers actually do."
+            },
+            {
+              "label": "Progress",
+              "text": "See a result that means something."
+            },
+            {
+              "label": "Energy",
+              "text": "Use the encouragement for the next action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-04",
+      "title": "A small team that moves without waiting",
+      "short": "People, output and initiative",
+      "intro": "I learned that a larger operation can create more work for me without creating more profit.",
+      "takeaway": "Keep the team capable, and teach people how to find useful work when the original task is finished.",
+      "source": {
+        "file": "HU2",
+        "start": "00:26:50",
+        "end": "00:32:31"
+      },
+      "body": "<p>At one point I had seventy-two performers on the books. In one month the operation turned over around six hundred thousand. That sounds impressive until I tell you what sat underneath it: rents, a management structure, large percentages, more people to coordinate and less time to give each person the help they needed. <strong>The turnover was big. So were the overheads.</strong> Half the people barely knew me. I could not manage a large group as if every person had my direct attention.</p>\n<p>I eventually kept the strongest ten. I enjoyed the company more, and I found it more profitable. I am not giving you a magic rule that every company needs ten people. I am telling you what happened when I stopped treating size as the achievement. A smaller group of people who understood the job could be a better business than a bigger operation I could not support properly.</p>\n<!--figure:b1-2a-team-size-->\n<p>I want people who can do more than one useful thing. Somebody with a phone and a laptop can achieve a lot if they understand the purpose of the work. If everybody needs a separate person to solve the next small problem, the whole company becomes a chain of handoffs. Training matters. Good judgment matters. Being able to complete a result matters more to me than being able to say I employ a large number of people.</p>\n<p>Now let me take you back to when I was fifteen, moving boxes of ice at my uncle's fish stall. I finished moving the boxes and stood there. In my head, I had done the job. My uncle looked at me and asked what I was doing.</p>\n<p class=\"spoken-dialogue\">I have moved the boxes. I am finished.</p>\n<p class=\"spoken-dialogue\" data-verbatim>There's always work to do.</p>\n<p>Wipe the wall. Sweep the floor. Look around. That was the lesson. The list I was given was not the limit of everything useful I could notice. I want the same kind of initiative in a business. If the message has been answered, what else needs attention? Is a page unclear? Does a customer need an update? Is there something we can produce or improve?</p>\n<!--figure:b1-2a-initiative-->\n<p>I used the comparison of an action being sixty percent right against doing nothing at zero. If I explain everything first, maybe the action is closer to the full result I wanted. But if the person waits all day, nothing has moved. That does not mean random activity is good. I want a person who can choose a sensible, reversible next step and know when a decision needs help.</p>\n<p class=\"hit\">Finish the task. Then find the next useful piece of work.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Do something as opposed to nothing.</p>\n<p>The purpose is not to keep everybody looking busy. It is to stop useful people becoming dependent on me for every instruction. A capable small team gets stronger when the people in it understand the result we are trying to create. They can see the next move, make it, and tell me what happened.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-team-size",
+          "kind": "comparison",
+          "title": "Bigger turnover, heavier operation",
+          "caption": "My studio anecdote compares scale with the smaller team I found easier to manage.",
+          "items": [
+            {
+              "label": "Large operation",
+              "text": "72 performers, around 600,000 turnover in one month, high overheads."
+            },
+            {
+              "label": "Focused operation",
+              "text": "The strongest 10; more direct attention and a more profitable operation for me."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-initiative",
+          "kind": "ladder",
+          "title": "From waiting to useful initiative",
+          "caption": "The fish-stall lesson applies after the assigned job is finished.",
+          "items": [
+            {
+              "label": "Assigned task",
+              "text": "Complete the work already agreed."
+            },
+            {
+              "label": "Look around",
+              "text": "Notice a real need or obstacle."
+            },
+            {
+              "label": "Act sensibly",
+              "text": "Take an appropriate next step."
+            },
+            {
+              "label": "Report back",
+              "text": "Make the result and any problem visible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-05",
+      "title": "Make people curious, then own the result",
+      "short": "Attention and confidence",
+      "intro": "Before somebody cares about my explanation, I have to give them a reason to want the answer.",
+      "takeaway": "Use a truthful question to earn attention, and explain the real part you played when the work succeeds.",
+      "source": {
+        "file": "HU2",
+        "start": "00:32:32",
+        "end": "00:38:02"
+      },
+      "body": "<p>Think about the most boring thing I could sell. I used a bouncy ball. It is a ball. It bounces. How do I make somebody stop long enough to look? I give them a question they want answered. <em>What makes this one different?</em> That small gap between what they know and what they want to know can earn me attention that a plain list of features never gets.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Curiosity sells.</p>\n<p class=\"spoken-dialogue\" data-verbatim>People are nosy.</p>\n<p>I have used that in how I introduce knowledge. A list of ordinary lessons can sound like more work. A promise to reveal useful things the person has not seen before creates a different feeling. They want to be inside the explanation. They want to know what they are missing. That is why the way I frame the same useful material matters.</p>\n<!--figure:b1-2a-curiosity-->\n<p>But curiosity has a job to do. It should lead to an answer worth hearing. If I say my ball behaves differently, I need an actual difference to show. If I offer a special gift, there needs to be a real gift. Otherwise I have found a way to win a moment of attention and lose the person's trust immediately afterward. <strong>The question gets them to look. The answer gives them a reason to stay.</strong></p>\n<p>I used the live-streaming business as another example. A viewer might be curious about what happens in a particular session. Giving a flat description can remove the interest that made the person ask. The wider lesson applies outside entertainment: demonstrate enough to make the value clear while leaving an interesting explanation to discover. I do not have to hide basic terms or play games with what the customer is buying.</p>\n<p>Now move from getting attention to receiving credit. I noticed how often people minimize a good result. A customer says the work helped, and the person responsible shrugs: perhaps it was luck. I want you to understand why that matters commercially. <strong>If you cannot explain your contribution, the customer may not understand what they should come back to you for.</strong></p>\n<!--figure:b1-2a-credit-->\n<p>In the ball example, the customer notices it bounces two millimetres higher than the old one. My immediate instinct is to take the credit. People blame me when something goes wrong, so why be shy when something goes right? The useful part is confidence in work I actually did. There is no value in pretending I control every lucky event around it.</p>\n<p>I can say what I changed, why I changed it and what the customer experienced. If timing also helped, I can still explain the decision I made. That is a stronger story than false modesty, and it is a more useful story than pretending I can tell the future. When I understand the real cause, I have a chance to repeat the result. When I only make a heroic story about myself, I may be unable to deliver it again.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-curiosity",
+          "kind": "flow",
+          "title": "From a question to a reason to stay",
+          "caption": "Attention is useful when the answer leads to genuine value.",
+          "items": [
+            {
+              "label": "Question",
+              "text": "Give me a reason to look closer."
+            },
+            {
+              "label": "Interest",
+              "text": "Connect the question to something I care about."
+            },
+            {
+              "label": "Answer",
+              "text": "Show the real difference."
+            },
+            {
+              "label": "Value",
+              "text": "Deliver what the question led me to expect."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-credit",
+          "kind": "comparison",
+          "title": "How I explain a good outcome",
+          "caption": "Confidence is useful when I can connect it to the work.",
+          "items": [
+            {
+              "label": "Minimize it",
+              "text": "Say nothing about the decisions or contribution."
+            },
+            {
+              "label": "Explain it",
+              "text": "Connect the action, the result and what can be repeated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-06",
+      "title": "Loyalty goes both ways, and the owner needs a life too",
+      "short": "Trust and personal reserves",
+      "intro": "A talented person helps me today. A dependable person gives me a foundation I can build on tomorrow.",
+      "takeaway": "Earn the trust you want from people, and make sure the business supports you without taking money owed to others.",
+      "source": {
+        "file": "HU2",
+        "start": "00:38:03",
+        "end": "00:45:34"
+      },
+      "body": "<p>I want smart people. Of course I do. I want people who work well and understand more than one part of the operation. But when I compare two people, I also ask whether I can rely on them when I am not in the room. That becomes very important when life interrupts the plan. I get ill. Somebody in the family needs help. I have to travel unexpectedly. The company still has customers waiting.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Loyalty's both ways.</p>\n<p class=\"spoken-dialogue\" data-verbatim>I do my part.</p>\n<p class=\"spoken-dialogue\" data-verbatim>They do their part.</p>\n<p>If I have a thousand left in the bank and I owe a worker a thousand, I pay the worker. I go without the money. That is the example I gave because it makes the point clear. I cannot demand commitment while treating my own promises as optional. <strong>I do my part. They do their part.</strong> Trust becomes real through the choices that cost me something.</p>\n<!--figure:b1-2a-loyalty-->\n<p>In the studio I compared a top performer who was always ready to leave with somebody less spectacular who was committed to the operation. I preferred the dependable foundation. If I have to rebuild the same relationship constantly, I spend time and energy that never appears in the headline revenue number. A reliable person can grow into responsibility. I can teach skills more easily than I can build a company on people whose promises mean nothing.</p>\n<p>That does not mean keeping somebody who cannot do the work. I still need ability. I still need honest conversations about results. But when I promote somebody, long-term reliability is part of the value I recognize. A company is full of relationships, and those relationships need something stronger than whichever offer looks attractive this afternoon.</p>\n<p>Now let me return to my old television-advertising agency. I made the opposite kind of mistake with myself. I kept putting receipts back into keeping the company alive. New deal, old cost. New deal, more pressure. I became so concerned with saving the operation that I did not build much security outside it. When it finally failed, I had worked through enormous stress and had very little left.</p>\n<!--figure:b1-2a-owner-balance-->\n<p>I kept thinking about what I could have done differently. Nearly a million could have passed through my hands, yet I was left with nothing. That regret was brutal. But the money passing through was not all profit. The problem I want you to notice is simpler: <em>I treated the company surviving as if it were the same thing as my life improving.</em> They are not always the same.</p>\n<p>I need to know what the business owes, what it needs to keep running and what it can honestly pay me. A large balance can include money already committed to customers, staff and suppliers. It is not all mine to scoop up. Once those responsibilities are understood, I should not feel guilty about sensible owner pay and building a personal reserve. The business exists to serve a purpose. Endless sacrifice without progress is not proof that I am a serious owner.</p>\n<p>I also want to avoid building an expensive stack of outside firms before I need it. One firm for the site, another for the accounts, another for something else, all sending invoices. Sometimes I need a specialist. Sometimes a trusted individual can do the job more directly. I want the work and the cost to make sense together, instead of buying a complicated structure because it makes me feel established.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-loyalty",
+          "kind": "ledger",
+          "title": "I keep my promise first",
+          "caption": "My example of reciprocal loyalty puts a worker’s earned pay ahead of my remaining cash.",
+          "rows": [
+            {
+              "label": "Cash left in the bank",
+              "value": "1,000"
+            },
+            {
+              "label": "Pay owed to the worker",
+              "value": "−1,000"
+            }
+          ],
+          "total": {
+            "label": "Cash I keep from that amount",
+            "value": "0"
+          }
+        },
+        {
+          "id": "b1-2a-owner-balance",
+          "kind": "matrix",
+          "title": "Know what the balance has to do",
+          "caption": "A balance is not the same thing as money free for the owner.",
+          "columns": [
+            "Purpose",
+            "What I need to understand"
+          ],
+          "rows": [
+            [
+              "Promises already made",
+              "Customers, workers and suppliers still need to be paid."
+            ],
+            [
+              "The next operating period",
+              "The company needs enough capacity to continue."
+            ],
+            [
+              "Owner pay and reserves",
+              "The business should also improve the owner’s position."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-07",
+      "title": "Before I spend, I ask what changes",
+      "short": "Spending, timing and the business window",
+      "intro": "I can make a business look bigger by spending money. That does not mean I have made it better.",
+      "takeaway": "Spend against the real bottleneck, and do not keep reinvesting just to protect the appearance of growth.",
+      "source": {
+        "file": "HU2",
+        "start": "00:45:35",
+        "end": "01:02:06"
+      },
+      "body": "<p>I want to come back to spending because it is an easy place to make an expensive mistake. When I start small, there are fewer things for me to lose. I may be working from home with a laptop. I may have boxes around the bedroom. It is not glamorous, but if customers are buying, I have evidence that something works. I do not have to bury that evidence underneath a pile of new bills.</p>\n<p>Take the cosmetics business again. The website takes orders. A few creators show the products. The owner starts making money and thinks, <em>now I need an office</em>. Do you need it, or do you want the feeling of having one? The customer sees the same website and the same offer. The new rent does not automatically give them a new reason to buy.</p>\n<!--figure:b1-2a-spending-choices-->\n<p>I would compare that office with more useful promotion. If the current problem is too few people seeing the product, I want to know what will bring the right people in. If the problem is that we cannot deliver the orders already arriving, that is a different decision. <strong>I need to name the problem before somebody sells me the solution.</strong></p>\n<p class=\"spoken-dialogue\" data-verbatim>The answer is you spend the money in a way that will bring more money in.</p>\n<p>I was offered a complicated back-end system for fifteen thousand euros. It would connect purchases to community accounts, move people into the right rooms, check what other products they had bought and automate a lot of administration. I could see why the person building it thought it was useful. But I was already delivering that part of the service manually with a team I trusted.</p>\n<p class=\"spoken-dialogue\">Show me what this changes for the business right now.</p>\n<p>Would more customers buy because I had it? Would it save enough work to matter? Was the current system failing? At that stage, I was happy with the work the team was doing. I did not want to spend money just because a more complicated piece of technology existed. If the volume became too much for us to handle, the timing could change. That is why the word <mark>now</mark> matters.</p>\n<!--figure:b1-2a-automation-->\n<p>I am not telling you that every system behind the sale is b*llshit. I am telling you to connect the spending to something real. A system might save time, avoid mistakes or allow us to deliver more. Those are useful changes. An impressive list of features, with no important change to our current problem, is a weaker reason to hand over fifteen thousand euros.</p>\n<p>Then I asked the same question about a camera. Imagine a video business already filming in 4K. The owner wants a new camera for twenty thousand. It has extra features, but the customer still understands the offer as 4K. Will the upgrade improve a result the customer actually needs? Will it let the company do work it cannot do now? If not, perhaps the owner wants a better toy. I do not have to pretend a purchase is an investment just because I use it at work.</p>\n<p>The other side is refusing to change when the market changes. I used the example of video rental losing out to streaming. Being careful does not mean sitting still forever. A company can waste money buying unnecessary things, and it can also fail by ignoring something important. The decision is about the effect, not simply whether the invoice is large or small.</p>\n<p>My old television business taught me that a model has a window. What I sold earlier was less attractive once online promotion gave advertisers new ways to reach people and track the response. I mentioned a creator deal at five hundred pounds as an example of a different option. If the buyer can get what they need another way, I cannot expect the old pitch to keep working just because it worked for me before.</p>\n<p class=\"hit\">Do not confuse keeping the old structure alive with building a sound future.</p>\n<p>That is where the owner-pay lesson comes back. I kept feeding my agency, buying more equipment and supporting the structure, but I did not fix the underlying weakness. I imagined I could have left with half a million if I had understood it earlier. The useful question is what I can honestly retain while meeting my obligations, rather than how long I can postpone admitting that the model no longer works. Bigger offices, newer cameras and more people cannot answer that question for me.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-spending-choices",
+          "kind": "comparison",
+          "title": "What does the next invoice change?",
+          "caption": "My cosmetics example separates looking established from solving the current constraint.",
+          "items": [
+            {
+              "label": "New office",
+              "text": "Adds a place and an ongoing bill; may leave demand unchanged."
+            },
+            {
+              "label": "Relevant promotion",
+              "text": "Can put the current offer in front of more suitable customers."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-automation",
+          "kind": "matrix",
+          "title": "The €15,000 automation decision",
+          "caption": "I considered the proposal against the manual operation already in place.",
+          "columns": [
+            "Question",
+            "What I compare"
+          ],
+          "rows": [
+            [
+              "Demand",
+              "Will it help more suitable customers buy?"
+            ],
+            [
+              "Time",
+              "Will the saved work change what the team can do?"
+            ],
+            [
+              "Delivery",
+              "Is the current manual process becoming a bottleneck?"
+            ],
+            [
+              "Timing",
+              "Do I need the improvement now?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-08",
+      "title": "Answer the complaint, then watch how businesses work",
+      "short": "Reputation and observation",
+      "intro": "A frustrated customer is telling me something. So is every shop, service and website I use.",
+      "takeaway": "Listen while you can still solve the problem, and train yourself to notice how a business earns and loses money.",
+      "source": {
+        "file": "HU2",
+        "start": "01:02:06",
+        "end": "01:07:37"
+      },
+      "body": "<p>Somebody sends me an unhappy email. The easiest thing in the world is to leave it until later because I do not feel like dealing with it. That is also a very easy way to make the problem worse. The person has already had a bad experience. Now they are wondering whether anybody cares. <strong>Silence adds another complaint to the first complaint.</strong></p>\n<p class=\"spoken-dialogue\" data-verbatim>Try and find a solution.</p>\n<p>I learned to speak to people even when the conversation was uncomfortable. If they are contacting me, I have a chance to understand what went wrong and try to put it right. I do not have to agree with every accusation. I do have to find out what actually happened and what I can do about it.</p>\n<p class=\"spoken-dialogue\">Tell me the problem. Let us see what we can work out.</p>\n<!--figure:b1-2a-complaint-->\n<p>No business keeps every person happy all the time. I am not looking for a world without criticism. I am looking for a habit of responding before frustration grows. The same internet that helps me find customers makes it easy for customers to tell other people about an experience. A useful answer and a real correction do more for me than pretending the message never arrived.</p>\n<p>Now let me show you how I think when I walk into a coffee shop. Most people buy the drink, sit down and carry on with their day. I buy the drink and start looking at the operation. What do the drinks cost? How busy is it? Who comes in? Is the shop selling cakes or sandwiches too? What might the rent be? How many people are working, and what are they able to serve?</p>\n<!--figure:b1-2a-cafe-observation-->\n<p>I ask myself whether I could run that place and make money. Then I ask whether I could run it better. Not because I know every answer after sitting there for a minute. I do not know the exact rent or all the costs. I am practicing how to notice the questions. <em>Estimates are a starting point for thought, not the accounts of somebody else's company.</em></p>\n<p>I do the same at a garage. I know very little about repairing cars, but I can still see how many cars are waiting, what the labor costs me and how the people move through the work. Where is the delay? What does the customer value? What work seems to be repeated? There is something to learn even when I am not a technical expert.</p>\n<p>Online, I can follow the whole experience. How easy was it to find the product? Did checkout make sense? What did the confirmation email tell me? Did the packaging protect what arrived? If I needed support, could I get an answer? Every irritating part is a mistake I can remember before I build my own version.</p>\n<p class=\"hit\">Stop seeing only the thing you bought. Start seeing the business that made the exchange happen.</p>\n<p>This is how I make ordinary life useful to my judgment. I do not need to open every business I observe. I need to get better at seeing demand, cost, delivery and trust working together. After doing it repeatedly, I notice things sooner, and my questions become more precise.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-complaint",
+          "kind": "steps",
+          "title": "The complaint is still a chance to act",
+          "caption": "I can respond before silence becomes part of the problem.",
+          "items": [
+            {
+              "label": "Hear it",
+              "text": "Understand what actually happened."
+            },
+            {
+              "label": "Answer",
+              "text": "Acknowledge the issue directly."
+            },
+            {
+              "label": "Resolve",
+              "text": "Offer an appropriate correction."
+            },
+            {
+              "label": "Follow through",
+              "text": "Do the thing I said I would do."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-cafe-observation",
+          "kind": "network",
+          "title": "What I look at in a coffee shop",
+          "caption": "A way to practice commercial observation without pretending I know the accounts.",
+          "items": [
+            {
+              "label": "Demand",
+              "text": "Customers, foot traffic and repeat visits."
+            },
+            {
+              "label": "Offer",
+              "text": "Drinks, food, prices and experience."
+            },
+            {
+              "label": "Costs",
+              "text": "Likely rent, staff and ingredients."
+            },
+            {
+              "label": "Delivery",
+              "text": "Queue, service and use of the space."
+            }
+          ],
+          "center": "The exchange"
+        }
+      ]
+    },
+    {
+      "id": "hu2a-09",
+      "title": "Keep the income bridge, and give people a reason to pay more",
+      "short": "A job, a side business and a stronger offer",
+      "intro": "Quitting my job did not have to be the first move. Building proof that somebody would pay was more useful.",
+      "takeaway": "Create real demand before dropping dependable income, then compete through value rather than trying to be the cheapest.",
+      "source": {
+        "file": "HU2",
+        "start": "01:07:38",
+        "end": "01:17:26"
+      },
+      "body": "<p>If I am working for somebody else, I can still think like a person who creates value. Where could I do the job better? Could I make more useful calls, remove a delay or take responsibility for something that keeps being missed? I can list the changes, explain what I believe they will achieve and have a proper conversation about how the extra contribution will be recognized.</p>\n<p class=\"spoken-dialogue\">Let me show you what I can improve. If it produces the result, I want to know there is a way for me to grow with it.</p>\n<p>That is a different conversation from simply asking for more money while offering nothing different. It also helps me see why I am not already doing the work as well as I could. Sometimes the obstacle is a missing incentive. Sometimes it is a bad process. I have to look honestly at what I control.</p>\n<p>After my first agency failed, I worked for a business selling websites, search promotion and online advertising. I stayed there for about a year. At the same time I wanted to return to television advertising. I could not afford to throw away the job, and I knew the market was harder than before. So I started the separate venture alongside it.</p>\n<p class=\"spoken-dialogue\" data-verbatim>You don't need to quit your job.</p>\n<!--figure:b1-2a-income-bridge-->\n<p>My brother pitched from home. I handled parts of the work and the meetings. We landed three or four deals and put around two hundred to three hundred thousand through that business over about a year. That was turnover, not a promise that the same amount became personal profit. The important part is that I did not need a dramatic resignation before I could find out whether a customer would buy.</p>\n<p>People ask whether they should quit. My first question is whether the side business has money coming in. If not, why make my position more fragile before I have proof? <strong>Keep the bridge while I build the next place to stand.</strong> I need to make room for the work and respect the commitments I already have. The title of entrepreneur is not worth much if it removes my income and gives me nothing to replace it.</p>\n<p>When I do get an offer working, I do not want my whole advantage to be a lower price. I looked at a phone case sold and delivered for eighty-nine cents and wondered how the seller could do it. I did not know their costs. That was exactly the point: somebody else may have a structure I cannot match.</p>\n<!--figure:b1-2a-price-value-->\n<p>My old agency tried to win by being cheap. I learned what thin margins felt like. With a stronger reputation, useful expertise and a better result, I can give people a different reason to choose me. I used digital guides at thirteen or seventeen dollars to make this point. If I can reach only a limited number of willing buyers, I need to think about the value of the whole transaction, not only how cheaply I can get them through the door.</p>\n<p>Price still matters. But if I keep cutting it whenever the offer is not working, I may never fix the reason people do not trust the offer. I want to build evidence that the result is worth paying for, then see what customers will actually support.</p>\n<p>And when I meet another owner, I need to stop talking long enough to learn. I already know my own story. Repeating how clever I am does not teach me how their business works. <em>Ask. Listen. Pay attention to the answer.</em> That habit helps me build a better offer than endlessly defending the one I already have.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Next, you need to learn to shut up and listen.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-income-bridge",
+          "kind": "timeline",
+          "title": "I did not have to quit first",
+          "caption": "My side-agency story kept employed income while I looked for real demand.",
+          "items": [
+            {
+              "label": "Employment",
+              "text": "A job provided a continuing income."
+            },
+            {
+              "label": "Side venture",
+              "text": "My brother pitched while I handled parts of the work."
+            },
+            {
+              "label": "Evidence",
+              "text": "Three or four deals over about a year."
+            },
+            {
+              "label": "Decision",
+              "text": "Judge the next move from incoming business, not the title."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-price-value",
+          "kind": "ladder",
+          "title": "Build a reason beyond the price",
+          "caption": "A stronger offer gives the customer more to compare than a cheaper invoice.",
+          "items": [
+            {
+              "label": "Useful result",
+              "text": "Solve a problem the buyer recognizes."
+            },
+            {
+              "label": "Evidence",
+              "text": "Show that I can deliver it."
+            },
+            {
+              "label": "Reputation",
+              "text": "Make that reliability visible."
+            },
+            {
+              "label": "Price",
+              "text": "Ask for a price the value can support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-10",
+      "title": "Know what they want, and keep moving after a good day",
+      "short": "Emotion, network and focus",
+      "intro": "People buy a change in their situation. The people around me also change what I notice and what I do next.",
+      "takeaway": "Understand the real desire, build useful relationships, and keep a steady rhythm after success.",
+      "source": {
+        "file": "HU2",
+        "start": "01:17:27",
+        "end": "01:32:38"
+      },
+      "body": "<p>Why does the customer want it? I need an answer better than the fact that I have it for sale. A person may want to feel attractive, capable, important or more in control. The product is part of the exchange, but the feeling they hope to get can be what makes them look in the first place.</p>\n<p>I saw that very clearly in the live-streaming business. A viewer was not simply paying for pixels on a screen. They wanted attention and the feeling that somebody understood them. That is a powerful thing to recognize, and it is easy to misuse. If I start promising a relationship that does not exist just to keep somebody paying, I am selling a fiction instead of the service. <strong>Understanding an emotion does not make a false promise true.</strong></p>\n<!--figure:b1-2a-buyer-motive-->\n<p>I used protein drinks as another example. A label can talk about flavor, sugar and carbohydrates, while the buyer is thinking about getting stronger and making progress in the gym. If I never connect the offer to that goal, I leave them to do all the work. But I cannot honestly turn every drink into a necessity. The useful connection is between the real product and a real reason the person might value it.</p>\n<p>So I ask myself what they are trying to improve. What do they worry about? What would a useful outcome look like in their life? Once I understand that, I can explain the offer in language they recognize. I do not need to call them a failure to make the benefit clear.</p>\n<p>The people I spend time with affect how I see all of this. Take the coffee-shop example again. I can sit with people who only want to pass the time, or I can sit with somebody who also notices the prices, the service, the queue and the possible opportunity. The second conversation trains my attention.</p>\n<!--figure:b1-2a-network-links-->\n<p class=\"spoken-dialogue\" data-verbatim>You're a node in the network.</p>\n<p>I know somebody who can do one kind of work. They know somebody who needs it. I help with a problem, and later they have something useful to show me. A network is not just a collection of impressive contacts. <em>The links need to do something.</em> I want people around me who are curious, active and willing to contribute. If I want to lead a project, I can suggest a clear piece of work and see who is interested in building it with me.</p>\n<p>Then I have to keep my own behavior steady when things start working. In a sales office I used to hear people getting excited about four promising leads. They would sit around talking about the money they expected. Sometimes only two paid. Even if all four paid, the time spent counting the future could have been used finding the next customer.</p>\n<p>My studio had days when I made twelve or thirteen thousand dollars in profit after paying the performers and the other costs. The next day, people wanted to relax because yesterday had been so good. I understood the feeling, but yesterday did not put a new customer in today's room.</p>\n<!--figure:b1-2a-next-day-->\n<p>I used to say I woke up at zero. I did not mean the money literally vanished from the bank. I meant the next day's useful work had not been done yet. I could be pleased with the result without letting it decide that the next day no longer mattered. The same goes for a deal I only hope to get. I cannot live in the money I might make.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Every day is a new day.</p>\n<p class=\"hit\">Notice the win. Learn from it. Then put my attention back on the next useful move.</p>\n<p>That is how I connect desire, relationships and daily focus. I want to understand what matters to the customer, spend time with people who sharpen my judgment, and keep doing the work even after I have a story worth celebrating.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-buyer-motive",
+          "kind": "comparison",
+          "title": "The object and the hoped-for change",
+          "caption": "My protein-drink example separates a list of contents from the goal in the buyer’s mind.",
+          "items": [
+            {
+              "label": "What is in it",
+              "text": "Flavor, sugar and carbohydrate information."
+            },
+            {
+              "label": "Why they care",
+              "text": "The buyer’s actual training goal and a useful role the drink may play."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-network-links",
+          "kind": "network",
+          "title": "Make the relationships useful",
+          "caption": "The network works when people contribute, connect and learn from each other.",
+          "items": [
+            {
+              "label": "Skills",
+              "text": "People who can do work I cannot."
+            },
+            {
+              "label": "Knowledge",
+              "text": "People who help me see the problem clearly."
+            },
+            {
+              "label": "Opportunity",
+              "text": "People who know a real need or opening."
+            },
+            {
+              "label": "Contribution",
+              "text": "Help I can give back to the group."
+            }
+          ],
+          "center": "My contribution"
+        },
+        {
+          "id": "b1-2a-next-day",
+          "kind": "timeline",
+          "title": "A good day does not finish the next one",
+          "caption": "The studio anecdote connects a successful day with the need for a continuing rhythm.",
+          "items": [
+            {
+              "label": "Yesterday",
+              "text": "A real result I can learn from."
+            },
+            {
+              "label": "Today",
+              "text": "The next work has not been done yet."
+            },
+            {
+              "label": "Tomorrow",
+              "text": "The pipeline depends on what I do now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-11",
+      "title": "A refund, a clear decision, and money that actually arrives",
+      "short": "Trust and the final exchange",
+      "intro": "A customer saying yes is a useful step. It is still different from money arriving in the bank.",
+      "takeaway": "Earn trust honestly, ask for a clear decision, and separate a promising deal from collected cash.",
+      "source": {
+        "file": "HU2",
+        "start": "01:32:39",
+        "end": "01:45:44"
+      },
+      "body": "<p>I used to do something in advertising that surprised people. A customer would buy a package for two thousand, and I would send the money back. I would tell them I thought the timing could be better and come back to them later. When I returned with another proposal, sometimes the new package was three thousand. The customer had seen me give up money I already held, so the next conversation began with more trust.</p>\n<p>I want you to understand the mechanism, because it is more important than the trick. <strong>Returning money can show that I am prepared to put the customer ahead of keeping the transaction.</strong> It can remove some of the fear they had after buying. But if the reason I give is made up, the trust is being built on a false story. That is not a useful foundation to copy.</p>\n<!--figure:b1-2a-refund-trust-->\n<p>I extended the example to a seventeen-dollar guide. Give the buyer the money back, talk about an improved edition, then offer a bundle for forty dollars. I also mentioned an extra product with a claimed value of a hundred dollars. The attraction is obvious: it may be easier to offer a genuinely useful larger package to an interested buyer than to find another buyer from nothing.</p>\n<p>The numbers alone do not prove the whole business doubles. Some people may not return. Some may not want the bundle. Giving money back costs time too. What I can see clearly is that seventeen and forty are different order values. If the extra value is real and the offer is clear, I can explain it without inventing an update or pretending I am doing the buyer a favor.</p>\n<p>Now suppose I have ten possible customers who will not decide. I keep telling myself that some of them might pay tomorrow. That uncertainty can occupy the whole week. I would rather have five definite sales and five clear noes than keep treating ten unanswered questions as money.</p>\n<!--figure:b1-2a-ten-leads-->\n<p>I need to ask for the decision. What exactly are we offering? Are they ready? If there is a real deadline or a real limit to the work we can take, say so. If the answer is no, I can accept it and move on. <em>A direct question is useful. A made-up deadline is not the same thing.</em> The point is to stop allowing an endless maybe to disguise the actual state of my pipeline.</p>\n<p>Here is why I care so much. When I was running the later television-advertising venture alongside my job, we had a chance to sell a campaign to a large food business. My brother spoke to a junior marketing contact and arranged the opportunity. I went to the meeting with the senior marketing person. They liked the meeting. They liked the plan. They liked the proposed campaign.</p>\n<p>This was a <mark>£600,000 deal</mark>, with a quarter of a million pounds of expected profit for us. They agreed and signed. We were waiting for the payment to show. In my head it was almost finished. I started thinking about what that money could do for our lives.</p>\n<!--figure:b1-2a-unpaid-deal-->\n<p>Then the senior marketing person became ill and went away unexpectedly. The junior contact did not have the authority to move it forward. The managing director did not want to launch the campaign while the senior person was absent. The invoice did not get paid. We were a small operation looking at a much bigger company and the cost of trying to force the issue.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Until the money's in the bank, it ain't real.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Do not get excited about money until it's in the bank.</p>\n<p>I was angry and demotivated for about a week. I had done exactly what I warn against: I became emotionally attached to money I did not have. A signed document mattered, but it had not funded anything. The expected profit had not become my money.</p>\n<p>That story puts the steps in the right order for me. Interest is not agreement. Agreement is not payment. Payment still needs the work behind it. I can be confident about the next step without pretending I have already reached the last one. The clearer I am about who can approve, when they pay and what happens next, the less room there is for my imagination to turn a possibility into a bank balance.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-refund-trust",
+          "kind": "flow",
+          "title": "Why a refund changes the conversation",
+          "caption": "A genuine refund can show that I do not need to hold the customer’s money at any cost.",
+          "items": [
+            {
+              "label": "Purchase",
+              "text": "The buyer has committed money."
+            },
+            {
+              "label": "Refund",
+              "text": "I return it for a real reason."
+            },
+            {
+              "label": "Trust",
+              "text": "My actions show care for the buyer."
+            },
+            {
+              "label": "Next offer",
+              "text": "A later offer still needs genuine value and a clear choice."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-ten-leads",
+          "kind": "comparison",
+          "title": "I want to know where the leads stand",
+          "caption": "The ten-lead example is an illustration of clarity, not a measured conversion rate.",
+          "items": [
+            {
+              "label": "Unclear pipeline",
+              "text": "10 maybes that keep consuming time and attention."
+            },
+            {
+              "label": "Clear decisions",
+              "text": "5 sales and 5 noes, so I know what to do next."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-unpaid-deal",
+          "kind": "ledger",
+          "title": "The money I expected never arrived",
+          "caption": "My advertising story separates the proposal from cash actually collected.",
+          "rows": [
+            {
+              "label": "Campaign value",
+              "value": "£600,000"
+            },
+            {
+              "label": "Expected profit for us",
+              "value": "£250,000"
+            }
+          ],
+          "total": {
+            "label": "Payment received from that deal",
+            "value": "£0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hu2a-12",
+      "title": "Care about the problem without becoming the problem",
+      "short": "Pressure, needs and mutual interest",
+      "intro": "When somebody pays me to handle a problem, I need to bring more than worry. I need a useful response.",
+      "takeaway": "Stay involved and calm, sell a real need, and build relationships in which both sides have a reason to perform.",
+      "source": {
+        "file": "HU2",
+        "start": "01:45:45",
+        "end": "01:58:35"
+      },
+      "body": "<p>After the unpaid deal, I came back to stress. A service business often gets paid to take a problem off somebody else's hands. Even cleaning does that. The customer wants the job handled without spending their own time and attention on every detail. If I accept the work, I accept some responsibility for making that happen.</p>\n<p>I do not want to be indifferent, and I do not want to run around panicking. I want the middle: <strong>care enough to act, stay calm enough to think</strong>. Suppose the site goes down and the payment account has a problem at the same time. Getting angry at the fact that it happened does not restore either one. I need to understand what is broken and decide the next useful move.</p>\n<!--figure:b1-2a-pressure-->\n<p>That ability grows through dealing with real things. I cannot arrange a life where nothing ever becomes difficult and then expect to be brilliant the first time a customer, a supplier and a member of staff all need me at once. I can learn to separate the facts from the feeling, ask for help where I need it and work through the next action. The goal is not to prove I can suffer. The goal is to remain useful when the situation is uncomfortable.</p>\n<p>Now go back to selling the need. Somebody asks me to sell a pen. I can say it is blue, made of plastic and durable. All of that may be true, but I have not explained why the person wants it. Are they trying to write something down? Do they keep losing ideas because they have nothing to write with? <em>Start where the product becomes useful.</em></p>\n<p>It is the same with the coffee shop. I can advertise the beans, or I can speak to a tired person walking past who would like a warm drink. I imagined a sign built around that simple situation. The drink has a role in the person's day. A list of ingredients does not explain that role as clearly.</p>\n<!--figure:b1-2a-need-->\n<p>But I still have to connect a real need to a real benefit. I cannot make a berry into a miracle or a pen into a guarantee of wealth just by describing a desirable result. The reason matters because it helps the customer understand the offer. It is not permission to promise anything.</p>\n<p>Next, think about the people I depend on. The big unpaid campaign taught me not to confuse a signed page with the practical ability to collect. I became impatient with contracts because I could see how slowly a dispute might move while my company still had costs. The piece I want you to keep is <strong>do not stop thinking about the relationship just because something is written down</strong>.</p>\n<p>I want the terms clear, but I also want a reason for both sides to do their part. My supplier wants repeat orders. I want a supplier who delivers. When the arrangement works for both of us, performance is more natural than when one side is only trying to escape the agreement. I used traffic as the analogy: both drivers benefit from avoiding a crash. The shared interest matters before anybody starts arguing about who is right afterward.</p>\n<!--figure:b1-2a-mutual-interest-->\n<p>The same question applies to partners. I knew a man in a business with two other owners. Each had about a third. The other two combined their share and pushed him out after they decided they did not need him. I am not using that story to explain every ownership rule. I am asking what each person continues to bring to the arrangement.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Make sure your partners need you.</p>\n<p class=\"spoken-dialogue\" data-verbatim>And make sure you need your partners.</p>\n<p>If I need a cofounder's skills, contacts and responsibility, that can be a good partnership. If I only want somebody to bounce ideas off, perhaps a trusted senior colleague can give me that without an equal ownership split. I have had partners myself. The question is not whether partnership is good or bad. It is whether the contribution and the structure make sense for the work.</p>\n<p class=\"hit\">Clear terms help me know the promise. Shared interest helps give us a reason to keep it.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-pressure",
+          "kind": "spectrum",
+          "title": "I want calm involvement",
+          "caption": "The useful middle is between ignoring the problem and becoming overwhelmed by it.",
+          "items": [
+            {
+              "label": "Indifferent",
+              "text": "I leave the problem alone."
+            },
+            {
+              "label": "Calm and involved",
+              "text": "I understand, prioritize and act."
+            },
+            {
+              "label": "Overwhelmed",
+              "text": "My reaction gets in the way of the next step."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-need",
+          "kind": "comparison",
+          "title": "Explain where it becomes useful",
+          "caption": "My pen and coffee examples begin with the customer’s situation.",
+          "items": [
+            {
+              "label": "Describe the object",
+              "text": "The pen is blue; the coffee uses particular beans."
+            },
+            {
+              "label": "Connect the need",
+              "text": "Write the idea down; stop for the warm drink I want."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-mutual-interest",
+          "kind": "matrix",
+          "title": "What keeps the relationship working?",
+          "caption": "I compare the document, the practical exchange and the reason to continue.",
+          "columns": [
+            "Part of the relationship",
+            "Question I ask"
+          ],
+          "rows": [
+            [
+              "The promise",
+              "Are the terms clear?"
+            ],
+            [
+              "The exchange",
+              "Can each side do what it agreed?"
+            ],
+            [
+              "The shared interest",
+              "Does performing make sense for both sides?"
+            ],
+            [
+              "The partnership",
+              "What does each person continue to contribute?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-13",
+      "title": "Show the next chapter of the customer’s life",
+      "short": "Decision, future and outcome",
+      "intro": "A person can think about a purchase for a long time. There is still a moment when they have to decide.",
+      "takeaway": "Make the next step understandable, help people picture the use, and connect the offer to the outcome they actually want.",
+      "source": {
+        "file": "HU2",
+        "start": "01:58:36",
+        "end": "02:06:27"
+      },
+      "body": "<p>I used to describe every purchase as having an impulse at the point of decision. Even if somebody has been thinking about a house for months, there is a moment when they stop looking and decide to act. That is the moment I am interested in. All the explanation in the world can leave a person sitting on the fence if they still do not understand what happens next.</p>\n<p>Think about showing a house. The person walks around it and starts imagining life there. An agent may explain that other people are interested and that an offer needs a decision. If that interest is real, it is useful information. If it is invented, it is just pressure. <strong>I want a clear reason to decide, not a false story that makes the buyer afraid.</strong></p>\n<!--figure:b1-2a-decision-->\n<p>The pen example works the same way. If I offer something today but give no reason it matters and no clear next step, the person can put the whole thing out of mind. Before I push for a decision, I need to establish the value. Then I can ask plainly whether they want to go ahead. An open conversation does not have to become an endless one.</p>\n<p>Now here is another thing I did when I sold advertising: I talked about the future. I might be trying to close a nineteen-thousand package, but I would describe what we could do later if the relationship grew. In a couple of years, a much larger campaign could include sponsorship, meetings with the channel and a different level of planning. I used five hundred thousand as the larger campaign example.</p>\n<!--figure:b1-2a-future-->\n<p>The point was to help them see more than an isolated invoice. We were discussing what a working relationship might become. That future could make the first step easier to understand. I can do this with a website too: explain how it might develop as the customer's business grows, rather than making the current sale sound like the last time we will speak.</p>\n<p>I have to be clear about what is included now and what is only a possibility later. A good picture of the future should not quietly promise work I have not agreed to do. The useful question is <em>what could this help the customer do next?</em></p>\n<p>That brings me back to results. I can sell a digital guide by describing eight pages and five thousand four hundred words. Or I can explain what the person is trying to understand and how the guide helps them use that understanding. The second explanation is closer to the reason they buy. The first still helps them know what they will receive.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Sell the result of a product, not the product itself.</p>\n<p>I want both pieces to fit. The outcome gets their attention. The contents, delivery and evidence show why the promise is believable. If I only list the contents, I may sound boring. If I only promise a transformed life, I may say more than the product can do. A strong explanation links the current need, the actual offer and the next useful change in the customer's life.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-decision",
+          "kind": "steps",
+          "title": "Help the buyer reach a clear choice",
+          "caption": "Consideration still ends in a decision the customer understands.",
+          "items": [
+            {
+              "label": "Need",
+              "text": "Why does this matter to me?"
+            },
+            {
+              "label": "Value",
+              "text": "What useful change does it offer?"
+            },
+            {
+              "label": "Terms",
+              "text": "What am I actually agreeing to?"
+            },
+            {
+              "label": "Decision",
+              "text": "Do I want to go ahead?"
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-future",
+          "kind": "timeline",
+          "title": "The first campaign and a possible future",
+          "caption": "My advertising example used a larger future relationship to give the first step context.",
+          "items": [
+            {
+              "label": "First step",
+              "text": "A 19,000 advertising package."
+            },
+            {
+              "label": "Working relationship",
+              "text": "Deliver, learn and see what the customer needs next."
+            },
+            {
+              "label": "Possible later work",
+              "text": "A 500,000 campaign in the two-year example."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu2a-14",
+      "title": "Look ready, speak clearly, and respond when things break",
+      "short": "Presence, recovery and the next people",
+      "intro": "The way I appear and speak changes the first impression. The way I respond when something breaks shows what sits behind it.",
+      "takeaway": "Make the presentation convincing, keep the operation recoverable, and recognize capable people before a perfect vacancy appears.",
+      "source": {
+        "file": "HU2",
+        "start": "02:06:28",
+        "end": "02:20:23"
+      },
+      "body": "<p>I am not going to pretend image has no effect. People look at how I present myself and make a judgment before I finish speaking. Clothes, the way I carry myself, the setting and the evidence around me all say something. When I launched my education business, I already had money from other work. The house and the cars were part of what people saw. I believed that visible success helped them take my offer seriously.</p>\n<p>That connects to spending. I have just told you not to buy things for vanity, and now I am talking about presentation. The question is still what the spending changes. A better appearance may help somebody feel confident about meeting me. An expensive object alone does not prove I can deliver. <strong>I want the image to introduce the substance, not replace it.</strong></p>\n<p>Then I have to open my mouth. So much business happens because somebody enters a room and explains something. A strong product, a good price and a polished slide deck can still fall flat if the person presenting cannot keep anybody interested. I have seen it happen. The information is there, but the delivery drains the life out of it.</p>\n<p class=\"spoken-dialogue\" data-verbatim>Learn to speak.</p>\n<!--figure:b1-2a-speaking-->\n<p>My own style is energetic. I move, change my voice and make the explanation feel alive. You do not have to copy that. Somebody else can be engaging through warmth, humor or a very clear way of explaining a difficult thing. Watch a person who holds your attention and ask why. What are they doing that makes me want to keep listening?</p>\n<p>I also practice giving myself room to think without filling every gap with a stream of sounds. Start slowly. Breathe. Make the sentence clear. When somebody asks a complicated question, I can acknowledge or restate the question before I answer. That gives me a moment to organize the explanation. It is better than pretending I know something and rushing into a confused answer.</p>\n<p class=\"spoken-dialogue\">Let me explain how that works.</p>\n<p>Clear speech matters when something goes wrong too. And something will go wrong. The site breaks. A system stops passing information. An order gets delayed. I do not want a team that falls apart because the normal path has disappeared. I want people who can understand the situation, work quickly and tell the customer what is happening.</p>\n<!--figure:b1-2a-recovery-->\n<p>I used the example of a broken back end while the payment route still worked. My instinct was to protect the money coming in and sort the mess out manually. I did not want a technical problem to become an excuse for the whole business to give up. But a manual fallback still needs the information to deliver. Taking money while losing the customer's order only creates another problem.</p>\n<p>So I need to know what was bought, who bought it and what we owe them. If there is a delay, explain it and make it right. If I have to check a transaction manually, do it carefully. Speed means restoring a useful operation, not merely hiding the fact that it has broken. The customer paid for the result, not my explanation of why the software was difficult.</p>\n<p>That is why I keep looking for good people. Most hiring starts with a vacancy and then a search. I sometimes approach it the other way around. I meet somebody reliable, capable and quick to understand what I am trying to do. Instead of forgetting them because I do not have the perfect job title ready, I think about where they could help.</p>\n<p class=\"spoken-dialogue\" data-verbatim>If you can find a loyal person, find them a job.</p>\n<!--figure:b1-2a-talent-->\n<p>There is often useful work in an operation: improving communication, producing material, following up and keeping information organized. If I have real work and a sensible arrangement for the person, I can start there. As the business grows, I already know somebody who can take more responsibility. I do not need to invent pointless activity just to keep them occupied. I need a real contribution that uses what they are good at.</p>\n<p class=\"hit\">Recognize the person. Find the useful work. Build trust through doing it.</p>\n<p>Now I start the next point: aim higher. Not empty talk about owning a five-hundred-million business, and not a grand number with no work behind it. I mean looking at my expectations and asking whether I have made them too small. Triple them. Quadruple them. If I have a good product and I am doing a good job, I should at least question the ceiling I have put over it.</p>\n<!--figure:b1-2a-ambition-->\n<p class=\"spoken-dialogue\" data-verbatim>You need to aim high.</p>",
+      "figures": [
+        {
+          "id": "b1-2a-speaking",
+          "kind": "steps",
+          "title": "Make the explanation easy to follow",
+          "caption": "The speaking practice is about attention and clarity, not copying my personality.",
+          "items": [
+            {
+              "label": "Slow down",
+              "text": "Give the sentence room to make sense."
+            },
+            {
+              "label": "Breathe",
+              "text": "Avoid rushing into confused filler."
+            },
+            {
+              "label": "Engage",
+              "text": "Use a style that suits me and the explanation."
+            },
+            {
+              "label": "Answer",
+              "text": "Acknowledge the question and give a clear response."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-recovery",
+          "kind": "flow",
+          "title": "The operation has to work after the fix",
+          "caption": "A manual fallback must still preserve the promise to the customer.",
+          "items": [
+            {
+              "label": "Understand",
+              "text": "Identify the broken route and affected orders."
+            },
+            {
+              "label": "Keep records",
+              "text": "Know who bought what and what is owed."
+            },
+            {
+              "label": "Restore",
+              "text": "Use a workable route to fulfill the promise."
+            },
+            {
+              "label": "Communicate",
+              "text": "Explain delays and complete the correction."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-talent",
+          "kind": "ladder",
+          "title": "Sometimes I notice the person first",
+          "caption": "I can build a relationship before the perfect role has a name.",
+          "items": [
+            {
+              "label": "Recognize",
+              "text": "Notice ability, reliability and fit."
+            },
+            {
+              "label": "Match",
+              "text": "Find real work that uses those strengths."
+            },
+            {
+              "label": "Work together",
+              "text": "Build trust through useful results."
+            },
+            {
+              "label": "Grow",
+              "text": "Move responsibility as the operation develops."
+            }
+          ]
+        },
+        {
+          "id": "b1-2a-ambition",
+          "kind": "comparison",
+          "title": "Question the ceiling",
+          "caption": "The opening of my next point asks whether expectations are too small.",
+          "items": [
+            {
+              "label": "Empty boast",
+              "text": "A huge number with no useful work behind it."
+            },
+            {
+              "label": "Grounded ambition",
+              "text": "Consider expectations three or four times higher, supported by a good offer and work."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

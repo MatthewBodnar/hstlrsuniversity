@@ -1,0 +1,901 @@
+{
+  "chapters": [
+    {
+      "id": "hu1a-01",
+      "title": "Move fast. Keep the quality.",
+      "short": "Speed without the sloppy work",
+      "intro": "I want to talk about business: making an offer, getting it in front of people, and getting paid. The first thing I want you to understand is speed.",
+      "takeaway": "Keep the standard. Cut the waiting.",
+      "source": {
+        "file": "HU1",
+        "start": "0:00:00",
+        "end": "0:07:48"
+      },
+      "body": "<p>I am not going to tell you that a positive thought puts money in your bank. <span data-verbatim=\"true\">You can read books all day.</span> You still have to go out and do something. Knowledge matters when you use it. I have worked jobs, sold advertising, run companies, made money and made mistakes. What I want to give you is the way I approach those situations, beginning with the thing I come back to over and over: <strong>speed</strong>.</p>\n<p data-verbatim=\"true\">Speed is extremely important in business. Everything that needs to be done must be done fast.</p>\n<p>Now, do not mix that up with doing a bad job. <span data-verbatim=\"true\">People seem to conflate the two. That if you do something quickly, it must be terrible. That's not the case.</span> When I train to fight, my instructor tells me to punch faster. He is not asking me to throw the technique away. He wants the same movement, performed more quickly.</p>\n<p class=\"hit\" data-verbatim=\"true\">You keep the same quality of punch, but you do it quicker.</p>\n<!--figure:a1-speed-->\n<p>I use a plane as the picture in my head. It has momentum; it does not instantly drop when it has a problem. That is a metaphor for keeping things moving. I want work going out, people responding, and the next useful action happening. <em>Momentum gives me options.</em> It does not make a broken business magically safe.</p>\n<p>Say I need a website. Somebody tells me two weeks. I ask why. Can the useful version be done in three days? What actually needs those extra days? There is a difference between a real technical constraint and a comfortable estimate somebody has repeated for years. I want you to question that estimate, agree the scope, and find the person who can deliver it.</p>\n<p>If I launch today, I can start hearing from buyers today. If I wait a week, that opportunity to learn is gone. The same applies once the business exists. Produce the advert, put it out, find out what happens. If I can produce two useful adverts in the time somebody else produces one, I get another chance to improve the result.</p>\n<p class=\"spoken-dialogue\">“I have a business idea.”<br>“Okay, cool.”<br>A week later: “How is your business?”<br>“What business?”</p>\n<p>That is the gap I am talking about. An idea has been sitting there for a week and nothing has moved. <mark>Make the next action smaller if you need to. Then do it.</mark> Stop using a vague future date to avoid a clear job today.</p>",
+      "figures": [
+        {
+          "id": "a1-speed",
+          "kind": "comparison",
+          "title": "Keep the work. Remove the delay.",
+          "caption": "My point about speed is a shorter wait for useful output, not permission to deliver poor work.",
+          "items": [
+            {
+              "label": "Slow preparation",
+              "text": "The offer stays inside the business while the clock keeps moving."
+            },
+            {
+              "label": "Fast execution",
+              "text": "A clear, usable version reaches people and starts a feedback loop."
+            },
+            {
+              "label": "Same standard",
+              "text": "The customer still receives what I promised."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-02",
+      "title": "I sold the deals. The margin was missing.",
+      "short": "The advertising agency story",
+      "intro": "At twenty, I learned how much a determined salesperson could bring in. Then I learned that a big turnover could hide a very weak business.",
+      "takeaway": "Incoming cash buys time. Positive economics make that time useful.",
+      "source": {
+        "file": "HU1",
+        "start": "0:07:48",
+        "end": "0:14:55"
+      },
+      "body": "<p>I applied for a job selling television advertising. They wanted a marketing degree. I wanted real experience and money in my pocket. I offered to work for a week so they could judge the work. They gave me the job. I was twenty, and I got on the phone.</p>\n<p>I called everyone. People in the office laughed when I called very large companies because we were a small operation. I called anyway. I would open a newspaper, look at the adverts and work through them. If a company was already paying to advertise, I knew there was an advertising budget and somebody responsible for spending it.</p>\n<p class=\"hit\">Three deals. Forty thousand each. One hundred and twenty thousand in sales.</p>\n<p>I earned ten percent commission: twelve thousand for me. I had never had that kind of money. Soon I was having lunch with the experienced top salesperson, and he wanted to start an agency with me as managing director. I had only been there about a month. By a month and a half, I had left and become a fifty-percent owner of a television advertising business.</p>\n<!--figure:a1-commission-->\n<p>My partner had a drug problem. In practice, I ended up running the company. We sold very cheap packages: about <strong>£18,000 or £19,000</strong> for the commercial, the work needed to get it approved, and around <strong>150 television spots</strong>. Eventually we had about ten people calling prospects. We had plenty of clients to show in meetings, so people thought we were brilliant young marketers.</p>\n<p>Here was the sh*t underneath it. On a package, we might have two or three thousand left before the rest of the business cost money. Some deals made nothing. Some lost money. We had cars, an office and wages, but the package prices did not support all of that.</p>\n<p>How did we pay to finish an old deal? We landed a new one. Then another. At roughly two deals a week, the first year's turnover approached a million pounds. <strong>There was money moving, but there was not the profit the outside picture suggested.</strong></p>\n<!--figure:a1-agency-loop-->\n<p>I kept that going for around a year and a half. Then I went away for a month to train. My partner emptied the bank account, new deals did not come in, and everything broke at once. We lost the office. Creditors came to the door. I could not sleep.</p>\n<p>I learned why speed matters, and I also learned what speed cannot fix. Selling faster kept the doors open. It did not turn an underpriced deal into a healthy one. I needed control of the cash, a workable margin and an operation that did not fall apart when I was away.</p>",
+      "figures": [
+        {
+          "id": "a1-commission",
+          "kind": "ledger",
+          "title": "My first commission",
+          "caption": "The arithmetic of the three-deal sales anecdote.",
+          "rows": [
+            {
+              "label": "Deals closed",
+              "value": "3"
+            },
+            {
+              "label": "Value of each deal",
+              "value": "40,000"
+            },
+            {
+              "label": "Total sales",
+              "value": "120,000"
+            },
+            {
+              "label": "Commission rate",
+              "value": "10%"
+            }
+          ],
+          "total": {
+            "label": "Commission earned",
+            "value": "12,000"
+          }
+        },
+        {
+          "id": "a1-agency-loop",
+          "kind": "flow",
+          "title": "The cash loop that kept getting tighter",
+          "caption": "New customer money was covering older delivery obligations. That is movement, but it is fragile.",
+          "items": [
+            {
+              "label": "New deal",
+              "text": "Cash enters the bank."
+            },
+            {
+              "label": "Old work",
+              "text": "That cash pays to fulfill earlier promises."
+            },
+            {
+              "label": "Thin margin",
+              "text": "Overhead consumes what is left."
+            },
+            {
+              "label": "Another deal needed",
+              "text": "The business must sell again just to stay level."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-03",
+      "title": "Where is the money coming from?",
+      "short": "Demand before the expensive setup",
+      "intro": "When somebody explains a new company to me, I do not start with the logo. I start with who is going to pay.",
+      "takeaway": "Write the payment path before the shopping list.",
+      "source": {
+        "file": "HU1",
+        "start": "0:14:55",
+        "end": "0:20:30"
+      },
+      "body": "<p data-verbatim=\"true\">A business is money in.</p>\n<p>That is the question I want at the front of your mind. I hear people talk about their accountant, trademark, website, office and equipment. Fine. Where is the person handing over money? What are they buying? Why do they want it? How are they going to pay you?</p>\n<p>Imagine I ask you how to start a makeup company. You tell me you need makeup, a logo, labels, stock, a warehouse, a website and advertising. Listen to the list. <strong>You are explaining how to spend money.</strong> I am asking how we make it.</p>\n<!--figure:a1-two-columns-->\n<p>I am not impressed by how much a founder has bought. Anybody can spend. Buying the visible pieces gives you the feeling that you have started. You can tell your friends you own a company. But if nobody wants the offer, the expensive pieces do not rescue you.</p>\n<p class=\"hit\">Before the office, the extra laptop and the boxes around your bed, find the buyer.</p>\n<p>With the makeup example, I would want a clear offer, prices and a way to see whether people actually want the product. Put the proposition in front of them. Do they respond? Do they want to order? If the answer is no, I want to learn that before I have five hundred boxes sitting in my bedroom.</p>\n<p>And here is the boundary: <strong>I cannot call a product available when it is not, then invent a story about demand to explain the delay.</strong> A paid pre-order needs to be a paid pre-order. Tell the customer what exists, what is still being arranged and when delivery is expected. A gift does not replace a promise I can keep.</p>\n<!--figure:a1-payment-path-->\n<p>The order I care about is simple. I identify the customer. I explain the offer. I make the price clear. I give that person a sensible way to pay. I know how I will deliver. Then I see if the offer works. The exact payment method is secondary to having that route properly thought through.</p>\n<p>If I spend heavily on everything around the sale and only then discover nobody wants it, I have bought myself a very expensive answer. If I run a small, honest demand test first, I can change direction without carrying a warehouse of unwanted stock.</p>\n<p data-verbatim=\"true\">When you want to start a business, your number one concern is how do I get money in?</p>\n<p>Get that question right. Fulfillment still matters. Your commitments still matter. But stop letting the comfortable work of buying things hide the uncomfortable work of finding someone willing to buy <em>from you</em>.</p>",
+      "figures": [
+        {
+          "id": "a1-two-columns",
+          "kind": "comparison",
+          "title": "Two very different lists",
+          "caption": "A useful starting page has both columns. The second one needs answers before the first one grows.",
+          "items": [
+            {
+              "label": "Money out",
+              "text": "Stock, office, labels, equipment, professional services, advertising."
+            },
+            {
+              "label": "Money in",
+              "text": "A specific buyer, a wanted offer, a clear price, a payment route and a delivered result."
+            }
+          ]
+        },
+        {
+          "id": "a1-payment-path",
+          "kind": "flow",
+          "title": "Follow the first payment",
+          "caption": "The shortest useful commercial path still includes a delivery promise I can meet.",
+          "items": [
+            {
+              "label": "Buyer",
+              "text": "Who wants the result?"
+            },
+            {
+              "label": "Offer",
+              "text": "What exactly am I selling?"
+            },
+            {
+              "label": "Payment",
+              "text": "Why this price, and how can they pay?"
+            },
+            {
+              "label": "Delivery",
+              "text": "How will I keep the promise?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-04",
+      "title": "Start small. Buy more chances.",
+      "short": "The 200,000-versus-5,000 example",
+      "intro": "I want a new idea to earn the next investment. I do not want to spend the whole budget proving that my first guess was wrong.",
+      "takeaway": "Risk a smaller amount to learn whether the idea deserves more.",
+      "source": {
+        "file": "HU1",
+        "start": "0:20:30",
+        "end": "0:25:35"
+      },
+      "body": "<p data-verbatim=\"true\">You can start businesses very, very cheaply if you do it the right way.</p>\n<p>People come to me asking for fifty thousand, a hundred thousand, two hundred thousand to begin. Sometimes a project genuinely needs capital. If you are building aircraft, obviously the equipment is not free. But do not take the most expensive possible version of a small business and decide that is your only way in.</p>\n<p>Go back to the makeup example. Put all the setup together: office, stock, staff, trademarks, accounts, advertising. Say that version needs <strong>200,000</strong>. Now imagine a narrow launch that tests demand and costs <strong>5,000</strong>. I am using those as example figures. That is a difference of <strong>195,000</strong> before I know whether the offer works.</p>\n<!--figure:a1-small-bet-->\n<p>If both ideas fail, the money at risk is very different. One failure takes five thousand. The other takes two hundred thousand. For the same initial sum, I can run forty experiments at five thousand each. It does not guarantee one succeeds. It does mean one bad guess has not used up all my room to move.</p>\n<p class=\"hit\">I want the market to earn the bigger budget.</p>\n<p>If money begins coming in and I can deliver properly, I can reinvest some of the proceeds. I can improve the next version using evidence from actual buyers. That is a different conversation from funding a perfect-looking operation before the first customer exists.</p>\n<p>When I landed the first deal for my advertising agency, I had a phone, a laptop, a business card and a bank account. I went to the client's office. I signed the deal. The customer paid, and that money helped set up the operation. I did not need to impress the prospect with my own expensive office first.</p>\n<p>I still had the twelve thousand from my earlier commission, but I kept that aside in case things went wrong. I could have spent it on desks and computers. Instead, I used what I already had and tried to get the company funded by the work it was winning.</p>\n<p><span data-verbatim=\"true\">When you're broke, it's hard to make mistakes, because you don't have any money to lose. When you're rich, it's easy to make mistakes, because you have a lot of money to lose.</span> That is why I still question a launch budget even when I can afford it. A smaller beginning forces me to separate what makes a sale possible from what merely makes me feel established.</p>",
+      "figures": [
+        {
+          "id": "a1-small-bet",
+          "kind": "comparison",
+          "title": "One large commitment, or many small attempts?",
+          "caption": "Put your own costs beside these example numbers before you spend.",
+          "items": [
+            {
+              "label": "Full setup first",
+              "text": "200,000 committed before demand is established."
+            },
+            {
+              "label": "Narrow first version",
+              "text": "5,000 committed to a smaller launch."
+            },
+            {
+              "label": "Room to try again",
+              "text": "195,000 difference; forty attempts at 5,000 equal 200,000."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-05",
+      "title": "Build the catalogue before the big office.",
+      "short": "A record label from a bedroom",
+      "intro": "Give me a completely different business and I still start with the same questions: how do we make money, what can we already deliver, and how fast can we find out?",
+      "takeaway": "Start with a deliverable offer, share the upside, and prove the route to buyers.",
+      "source": {
+        "file": "HU1",
+        "start": "0:25:35",
+        "end": "0:32:19"
+      },
+      "body": "<p>Say you want to start a record label. I have never run one. I am working this out from the basic principles in front of you. How does it make money? It sells music. So, before I spend money on a fancy studio or an office, I need music I can actually sell.</p>\n<p>With a digital product, I need the finished material. I cannot distribute songs that do not exist. I would look for independent artists who want help reaching an audience and would consider a revenue-sharing agreement instead of a large payment up front.</p>\n<p>Say a recording sells for <strong>£1</strong> and we agree a <strong>fifty-fifty split</strong>. The artist gets half; the label gets half before its own costs. Now I have something to work with. The next job is distribution: where are the listeners, and how do I put this music in front of them?</p>\n<!--figure:a1-music-split-->\n<p data-verbatim=\"true\">You have to test the distribution channels. Test them out. Test out an independent distribution channel.</p>\n<p>I would use the usual music outlets and look at direct channels too. A website. Performance videos. A video channel. Somewhere the band can tell its story and show what it is doing. I am not paying for a room full of staff before I know which route reaches a buyer.</p>\n<p>I would ask the artists for more useful material: songs, recordings of live performances, videos from rehearsals. Maybe a daily video diary while they record. <strong>Keep producing. Keep publishing. Keep finding out what people respond to.</strong> A catalogue gives me more than one chance at reaching an audience.</p>\n<p class=\"spoken-dialogue\">“What have you actually done for the artists?”<br>“Here is the music. Here are the performances. Here is where we distribute it. Here is the audience we have helped them reach.”</p>\n<!--figure:a1-catalogue-ladder-->\n<p>When I approach a stronger artist later, I can show that work. I am no longer explaining an imaginary company. I have a catalogue and evidence of promotion. The deal might be different: perhaps the artist receives sixty percent and I receive forty. That can still work if the partnership creates more value.</p>\n<p>I do not need to pretend I can guarantee a hundred thousand sales a month. That is b*llsh*t if I cannot back it up. Be clear about what I will do, what the artist will provide and how the money is shared. If the music does not sell, investigate the music, audience and distribution together. Do not hide behind a promise I invented.</p>\n<p>Notice what I have done. <span data-verbatim=\"true\">The first thing I wrote is how do we make the money?</span> Then I found a product I could deliver without buying a big operation. Then I worked on getting it out quickly. If the experiment struggles after six months, I have learned something without leaving a large office and equipment bill behind me.</p>",
+      "figures": [
+        {
+          "id": "a1-music-split",
+          "kind": "ledger",
+          "title": "A simple revenue-share illustration",
+          "caption": "A £1 recording sale, split equally before other costs.",
+          "rows": [
+            {
+              "label": "Sale price",
+              "value": "£1"
+            },
+            {
+              "label": "Artist share",
+              "value": "50% / £0.50"
+            },
+            {
+              "label": "Label share before costs",
+              "value": "50% / £0.50"
+            }
+          ]
+        },
+        {
+          "id": "a1-catalogue-ladder",
+          "kind": "ladder",
+          "title": "Build evidence one release at a time",
+          "caption": "Promotion and a real catalogue give the next conversation substance.",
+          "items": [
+            {
+              "label": "Start",
+              "text": "An artist, a finished recording and clear revenue terms."
+            },
+            {
+              "label": "Distribute",
+              "text": "Put the music and supporting content in front of listeners."
+            },
+            {
+              "label": "Show the work",
+              "text": "Collect evidence of releases, reach and delivery."
+            },
+            {
+              "label": "Improve the partnership",
+              "text": "Attract stronger material with terms both sides understand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-06",
+      "title": "Find your people. Pool what you can.",
+      "short": "Skills, trust and shared costs",
+      "intro": "Some of the people you need may already be around you. Look for real ability and shared commitment before you start buying an expensive organization.",
+      "takeaway": "Share resources when the trust, expectations and benefits are shared too.",
+      "source": {
+        "file": "HU1",
+        "start": "0:32:19",
+        "end": "0:41:56"
+      },
+      "body": "<p>I hear the rule all the time: do not mix friends or family with business. I do not accept that as a rule for everybody. My brother works with me. My cousin works with me. The question is whether the person is capable, whether we can rely on one another, and whether we both understand the deal.</p>\n<p>A younger person in your circle may know more about computers, editing or new media than you do. I am thirty-three in this story, and I have had eighteen- and nineteen-year-olds point out things I did not know. Good. I do not need to know every tool. I need to recognize what they can do and give the work a clear direction.</p>\n<p>Imagine a small website service. The customer pays <strong>$300</strong>: half now, half on completion. The person building the site gets <strong>$50</strong> at the start and <strong>$50</strong> when it is done. That leaves <strong>$200</strong> before the other expenses of finding the customer and managing the job. It is a simple illustration of selling, organizing and delivering as different roles.</p>\n<!--figure:a1-website-ledger-->\n<p>The terms have to make sense to everyone. I am not treating a child or an unpaid relative as free equipment. If I discuss something like ten percent ownership, it needs to mean something clear. People need to understand their work, their pay, their risk and their share of any upside.</p>\n<p>My brother and I also learned the value of sharing resources from a family we knew. One brother was a junior lawyer making perhaps <strong>£50,000 a year</strong>, yet he had access to a very expensive car. We asked how. He had six brothers, working in different professions. They shared a house, pooled resources and shared the vehicles.</p>\n<p>The car payment in that example was around <strong>£2,000 a month</strong>. One person did not use the car all the time. The family did not need six copies of everything. The point that stayed with us was not the car. It was the money going out separately that did not need to go out separately.</p>\n<!--figure:a1-pooled-resources-->\n<p>We rented together rather than paying for two apartments. We put resources into the same pot. Our first used performance car cost <strong>£65,000</strong>, and we bought it together. The money we did not spend duplicating our lives could support what we were building.</p>\n<p>Later, my cousin joined us. I had first met him when he was five and saw him again at nineteen. He came from a comfortable background, then went through a difficult stretch, sleeping on a floor and delivering pizzas. After a couple of years of that struggle, he became part of our team.</p>\n<p>You may not have a brother or a cousin. Fine. Think about the people you trust and the people who trust you. <span data-verbatim=\"true\">Those are the people you want to work with.</span> Build the agreement around real cooperation, not around a surname. Pooling only helps when the people in the pool are pulling in the same direction.</p>",
+      "figures": [
+        {
+          "id": "a1-website-ledger",
+          "kind": "ledger",
+          "title": "The $300 website example",
+          "caption": "This is the gross spread in the illustration, before sales, support and other expenses.",
+          "rows": [
+            {
+              "label": "Customer pays to begin",
+              "value": "$150"
+            },
+            {
+              "label": "Customer pays on completion",
+              "value": "$150"
+            },
+            {
+              "label": "Builder paid to begin",
+              "value": "−$50"
+            },
+            {
+              "label": "Builder paid on completion",
+              "value": "−$50"
+            }
+          ],
+          "total": {
+            "label": "Gross spread before other expenses",
+            "value": "$200"
+          }
+        },
+        {
+          "id": "a1-pooled-resources",
+          "kind": "network",
+          "title": "One pool, less duplication",
+          "caption": "The benefit comes from sharing useful resources under a clear agreement.",
+          "items": [
+            {
+              "label": "Housing",
+              "text": "Shared space can replace repeated rent payments."
+            },
+            {
+              "label": "Equipment",
+              "text": "Use the same tools when schedules allow."
+            },
+            {
+              "label": "Skills",
+              "text": "Different people contribute different abilities."
+            },
+            {
+              "label": "Capital",
+              "text": "Savings from duplication can support the venture."
+            }
+          ],
+          "center": "Trusted team"
+        }
+      ]
+    },
+    {
+      "id": "hu1a-07",
+      "title": "Make your word carry weight.",
+      "short": "Presence, discipline and trust",
+      "intro": "When I stood in front of a client, the words were only part of the meeting. How I carried myself mattered to the conversation too.",
+      "takeaway": "Present yourself deliberately, then back the presentation with delivery.",
+      "source": {
+        "file": "HU1",
+        "start": "0:41:56",
+        "end": "0:47:45"
+      },
+      "body": "<p data-verbatim=\"true\">Command respect.</p>\n<p>That is the next point. I have been a professional fighter, and physical training is a large part of my life. In sales meetings, I felt that the discipline and confidence I brought into the room helped people take me seriously. I was not disappearing behind the desk, mumbling a pitch and hoping nobody asked a question.</p>\n<p>My experienced sales partner had presence too. I learned a lot by watching how he spoke, how he held the conversation and how comfortable he was making a direct offer. A person can feel strong in the room before the numbers are even discussed.</p>\n<p><span data-verbatim=\"true\">There's some things that are spoken without being spoken.</span> People form impressions. They look for signals that I take myself seriously, that I can handle difficult work and that I believe what I am saying. Preparation, clear speech and deliberate presentation all affect that.</p>\n<p>But I am not asking you to confuse appearance with competence. A physique is not proof that an advert will produce a return. If I stand up and promise a client twice their money back on a nineteen-thousand package, I still need something real behind that promise. A confident unsupported guarantee is still unsupported.</p>\n<!--figure:a1-margin-points-->\n<p>Small differences in the result can matter enormously. Take <strong>$1 million in sales</strong>. At a <strong>twenty-percent margin</strong>, that is <strong>$200,000</strong>. At a <strong>thirty-percent margin</strong>, it is <strong>$300,000</strong>. That is another <strong>$100,000</strong>. Be precise: the margin increased by ten <em>percentage points</em>. That is not the same as profit increasing by ten percent.</p>\n<p>That calculation shows why I pay attention to details that affect the deal. It does not prove that physical appearance creates the change. I need to find which details actually make the offer stronger, make the conversation clearer and make the customer more comfortable buying.</p>\n<p>I used the same basic approach in very different operations. My adult webcam business began with equipment I already had and an adult partner who wanted to work with me. I was still thinking about demand, low costs, speed and getting the work produced. Presence did not replace any of those things.</p>\n<p class=\"hit\">Do not hide behind a weak presentation. Do not use a strong presentation to hide weak work.</p>\n<p>Get yourself ready for the room. Speak clearly. Know the offer. Then make your word worth something by keeping it.</p>",
+      "figures": [
+        {
+          "id": "a1-margin-points",
+          "kind": "comparison",
+          "title": "Ten percentage points can be a large amount",
+          "caption": "The arithmetic shows the size of a margin change. It does not establish what caused it.",
+          "items": [
+            {
+              "label": "Same sales",
+              "text": "Revenue stays at $1,000,000."
+            },
+            {
+              "label": "20% margin",
+              "text": "$200,000 remains at that margin."
+            },
+            {
+              "label": "30% margin",
+              "text": "$300,000 remains at that margin."
+            },
+            {
+              "label": "Difference",
+              "text": "$100,000 more; a 10-percentage-point margin increase."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-08",
+      "title": "Sell to the people who already trust you.",
+      "short": "The second sale begins with the first delivery",
+      "intro": "Before I pay to find a whole new audience, I look at the people who have already bought from me. What do they need next?",
+      "takeaway": "Deliver something useful, then make a useful next offer.",
+      "source": {
+        "file": "HU1",
+        "start": "0:47:45",
+        "end": "0:51:15"
+      },
+      "body": "<p>One of the easiest ways I found to bring in money was to go back to a customer who had already bought and received something they liked. The first sale introduces us. Good delivery gives the second conversation a different starting point.</p>\n<p>At the advertising agency, the first package might be eighteen or nineteen thousand. We produced the advert and showed it to the client. If they liked it, then we offered an additional airtime package.</p>\n<p data-verbatim=\"true\">We didn't, we never tried to sell it to them before they saw the advert because then it was much harder to sell.</p>\n<p>The timing mattered. Before the advert existed, it was another promise. After they had watched something they were happy with, they could picture it being broadcast more often. The product was real to them.</p>\n<!--figure:a1-upsell-->\n<p>The extra package was around <strong>£5,000</strong>, and I had about <strong>£4,000</strong> of profit in that additional package. We could not easily sell the whole thing as a twenty-four- or twenty-five-thousand bundle at the start. Selling the original deal and offering the extra later worked better for us. When the client liked the advert, I was seeing around <strong>sixty to seventy percent</strong> take the add-on.</p>\n<p>I am talking about what happened in that business, not giving you a conversion rate to assume in yours. The important part is the sequence: deliver, establish confidence, then show the extra value. Be honest about the airtime, the placement and what the buyer is getting. A made-up bulk-buy story does not create genuine value.</p>\n<p>A business owner once asked me for two hundred thousand because he was short of cash. I asked how many previous customers he had. Around <strong>ten thousand</strong> in the database. I told him to look there before looking at me for a loan. Put together a relevant offer. Contact the people who already know the business and have had a good experience.</p>\n<p class=\"hit\">Your next sale may be in the customer list you already have.</p>\n<p>I would ask that question before spending more on ads or building an entirely new product. Can the customer reorder? Do they need a sensible upgrade? Is there an existing service they have not used? The offer still has to suit them, and the numbers still have to work.</p>\n<p data-verbatim=\"true\">In business, you don't need to sell to tons of people if you can sell to the same people over and over again.</p>",
+      "figures": [
+        {
+          "id": "a1-upsell",
+          "kind": "steps",
+          "title": "Why the second conversation felt different",
+          "caption": "Deliver the first advert. Then make the relevant next offer.",
+          "items": [
+            {
+              "label": "First agreement",
+              "text": "An £18,000–£19,000 production-and-airtime package."
+            },
+            {
+              "label": "Visible delivery",
+              "text": "The client sees the finished advert and responds to it."
+            },
+            {
+              "label": "Relevant add-on",
+              "text": "An extra £5,000 airtime offer."
+            },
+            {
+              "label": "My result",
+              "text": "About £4,000 profit on that upgrade; 60–70% of clients who liked the advert accepted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-09",
+      "title": "Use what you have before buying what you lack.",
+      "short": "Less ceremony, a real inventory",
+      "intro": "I do not want the feeling of owning a company to become a substitute for actually earning. Look around before you ask somebody else to fund the whole thing.",
+      "takeaway": "List the tools, skills, access and willing people already available to you.",
+      "source": {
+        "file": "HU1",
+        "start": "0:51:15",
+        "end": "1:01:36"
+      },
+      "body": "<p>I know people who have the registration, accountant and folders ready before anybody has bought anything. It feels productive. It gives them a company to talk about. But the customer question is still unanswered.</p>\n<p>I have started perhaps a hundred companies in my life. Around twenty made money. Think how much time and money I could bury in elaborate setups for ideas that never get anywhere. I do not want optional complexity to become the first job of every experiment.</p>\n<p>That does not mean ignoring tax, customer promises or whatever requirements apply to the work. <strong>Do what is required. Stop buying extra ceremony because selling makes you uncomfortable.</strong> A company that exists on paper still needs a reason for somebody to pay it.</p>\n<p>Now take a piece of paper and write down what you already have. A laptop. An internet connection. A place to work. A car or access to transport. Physical strength. A useful skill. Someone you know who can design, edit, pack orders or help with delivery.</p>\n<!--figure:a1-asset-inventory-->\n<p>When I was thinking about an adult-entertainment business, I first thought of a physical club. At the time I had six girlfriends, and that was part of what prompted the idea. But a personal relationship is not a work agreement; any commercial role needs willing adults and clear terms. Then I looked at the building, fit-out and operating costs. I could be risking three or four hundred thousand before money came in. Too much.</p>\n<p>I asked a different question: what is the customer actually paying for, and can that demand be served without all the costs of a physical venue? That took me to online webcam services. I already had the equipment and connection, and an adult partner willing to try it.</p>\n<p class=\"hit\" data-verbatim=\"true\">The day I had the webcam idea, the same day I was making money.</p>\n<p>That is what I mean by using what you have. I did not begin by buying a large operation. I began with an available setup. When that generated money, I could buy another laptop. Then add capacity again. One setup became two. Then a bigger apartment, then more people and more equipment.</p>\n<!--figure:a1-earned-capacity-->\n<p data-verbatim=\"true\">I never spent money I didn't make first.</p>\n<p>That operation went on to generate over <strong>$7 million</strong>. My point is the order: earn, then expand. I was not repeatedly reaching into my own pocket to build a picture of a business before finding out whether anyone wanted it.</p>\n<p>The same question works with ordinary services. Maybe someone in the family wants to help dispatch parcels. Maybe I can find lawn-care customers and work with someone who does the gardening. Maybe access to a car and a capable driver suggests a transport service. The people need fair terms, and the work has to be properly set up. I am looking for a useful arrangement, not an excuse to deceive them.</p>\n<p>I do not accept “I need an investor” as the automatic first answer. Show me the smaller version. Show me what you already control. Show me the first thing you can deliver. <mark>Sometimes the constraint is not a missing resource. It is that you have not noticed the resources around you.</mark></p>",
+      "figures": [
+        {
+          "id": "a1-asset-inventory",
+          "kind": "matrix",
+          "title": "What is already within reach?",
+          "caption": "An inventory of useful access, not a list of people to exploit.",
+          "columns": [
+            "Category",
+            "What I look for",
+            "How it might help"
+          ],
+          "rows": [
+            [
+              "Tools",
+              "Equipment already owned",
+              "Produce or deliver the first offer"
+            ],
+            [
+              "Access",
+              "Space, transport, connectivity",
+              "Operate with less new overhead"
+            ],
+            [
+              "Skills",
+              "Selling, making, organizing",
+              "Complete work that buyers value"
+            ],
+            [
+              "People",
+              "Willing, capable collaborators",
+              "Combine different abilities fairly"
+            ]
+          ]
+        },
+        {
+          "id": "a1-earned-capacity",
+          "kind": "flow",
+          "title": "Earn the next unit of capacity",
+          "caption": "The expansion pattern in my online-service story.",
+          "items": [
+            {
+              "label": "Existing setup",
+              "text": "Start with equipment and access already available."
+            },
+            {
+              "label": "First earnings",
+              "text": "Deliver work and collect payment."
+            },
+            {
+              "label": "Added capacity",
+              "text": "Use proceeds for another useful setup."
+            },
+            {
+              "label": "Repeat",
+              "text": "Expand again when demand supports it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-10",
+      "title": "Give every role a clear job.",
+      "short": "Money made, time saved",
+      "intro": "I do not hire an assistant because I like saying I have an assistant. I want to know what the role changes in the business.",
+      "takeaway": "Define the useful outcome, then review whether the role creates it.",
+      "source": {
+        "file": "HU1",
+        "start": "1:01:36",
+        "end": "1:09:57"
+      },
+      "body": "<p data-verbatim=\"true\">Staff need a clear objective.</p>\n<p>Here is how I start thinking about a role: does it help bring money in, or does it free useful time? A salesperson has an obvious connection to revenue. An assistant may save hours that I can put into work only I can do. Delivery, support and operations can make both of those possible. But I still need a clear connection to value.</p>\n<p class=\"spoken-dialogue\">“I need an assistant.”<br>“An assistant to do what?”<br>“Just to help with things.”<br>“What things?”</p>\n<p>I keep asking. Which tasks? How long do they take? What does good completion look like? What will I do with the capacity that comes back to me? If I cannot describe the work, I am not ready to describe the job.</p>\n<!--figure:a1-staff-audit-->\n<p>Get the paper out periodically. I might review it every couple of weeks or once a month. What contribution did a role create? What did it cost? What tasks were completed? How long would those tasks have taken the rest of the team? I want the answer on the page rather than a vague feeling that everybody looks busy.</p>\n<p>I have been on the other side. After the first agency failed, I worked selling online advertising and websites. I was training hard and tired. I had a basic wage, and I spent perhaps three days out of five reading an online encyclopedia instead of properly working. Nobody challenged it. That experience made me notice how weakly some companies connected a job to an outcome.</p>\n<p>I am not telling you that every employee is the same. I am telling you to look. If the role is not working, find out whether the problem is the brief, the tools, the training, the incentives or the fit. Do not assume another hire fixes an undefined process.</p>\n<p>I also teach the team how I want work done. A good salesperson can be hitting target and still have a process that wastes their time. Maybe entering information takes longer than it needs to. If I make that part easier and faster, the salesperson has more time for actual conversations.</p>\n<p>Even a ten-second step becoming a nine-second step is a saving. It is small once. Repeated all day, it deserves attention. I want to remove friction before I keep demanding more effort.</p>\n<!--figure:a1-market-hours-->\n<p>I first learned that habit at a fish market. I was fifteen, getting up around five, running to work, carrying boxes of ice and fish at six in the morning. In winter it could be minus five. It was a sh*t job, and I ran home after a long day.</p>\n<p>My uncle kept telling me to work faster. I asked why it mattered if I was there until five anyway. If I finished the main work in seven hours rather than ten, I had three hours left. Then he would say, “<span data-verbatim=\"true\">Find work to do.</span>” I swept the floor. I cleaned the walls. The place looked better. More useful work happened in the same day.</p>\n<p class=\"hit\">A clear task. A better process. More useful capacity.</p>\n<p>That is what I want from the role. Speed still matters, but exhaustion is not a process improvement. Find the wasted steps, make the objective clear and put the time you save somewhere that matters.</p>",
+      "figures": [
+        {
+          "id": "a1-staff-audit",
+          "kind": "matrix",
+          "title": "The role needs an outcome",
+          "caption": "Review the value of the work, including indirect operational value.",
+          "columns": [
+            "Role type",
+            "Question I ask",
+            "Evidence"
+          ],
+          "rows": [
+            [
+              "Revenue",
+              "What contribution does this role create?",
+              "Relevant sales and contribution, not activity alone"
+            ],
+            [
+              "Time",
+              "What useful capacity comes back?",
+              "Completed tasks and time genuinely freed"
+            ],
+            [
+              "Operations",
+              "What work does this make possible?",
+              "Delivery, reliability and support outcomes"
+            ]
+          ]
+        },
+        {
+          "id": "a1-market-hours",
+          "kind": "ledger",
+          "title": "The fish-market lesson",
+          "caption": "The example compares time spent on the main task, leaving the rest of the shift for other work.",
+          "rows": [
+            {
+              "label": "Slower completion of the main task",
+              "value": "10 hours"
+            },
+            {
+              "label": "Faster completion of the main task",
+              "value": "7 hours"
+            }
+          ],
+          "total": {
+            "label": "Time available for other useful work",
+            "value": "3 hours"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hu1a-11",
+      "title": "Work close to the people doing the work.",
+      "short": "Direct specialists and aligned interests",
+      "intro": "If I cannot do something myself, I look for a capable person who can. I do not automatically put another layer of companies between me and the work.",
+      "takeaway": "Choose the capability and accountability you need, with as little needless overhead as possible.",
+      "source": {
+        "file": "HU1",
+        "start": "1:09:57",
+        "end": "1:15:58"
+      },
+      "body": "<p data-verbatim=\"true\">If there's something you cannot do and you need someone to do it, you need to outsource cheaply.</p>\n<p>Cheaply does not mean blindly. It means I do not want to pay for an elaborate organization when a good specialist can do the actual job. If I need a video, a capable film student might be interested. If I need design or development, I look for people who can show me the relevant work.</p>\n<p>Picture the structure. I am at the top coordinating the business. I have a person handling sales, somebody building the app, an assistant and another specialist. I know who is doing what. I can talk directly to the person responsible and see where the work stands.</p>\n<!--figure:a1-direct-team-->\n<p>Now compare that with hiring a company for the website, another company for development and another company for every other small task. Each has its own overhead, its own queue and its own sales target. Before long, I can spend my time answering invoices instead of improving the business.</p>\n<p>There is an incentive difference I want you to notice. My project might be one job among many for an agency. The agency also needs to bring in its next customer. If it is busy chasing more work, I may not be the urgent priority I imagined when I signed the contract.</p>\n<p>That does not make every agency bad. It means I should understand what I am buying. If a large team or specialist firm is genuinely needed, use one. If an independent person has a company name on the invoice, I still see that as working with the individual doing the work. I am not arguing about paperwork. I am arguing about the distance between me and the result.</p>\n<p><span data-verbatim=\"true\">Work with people with vested interests.</span> I want people who understand the job, want it to succeed and can communicate clearly. I want them looked after too. Good cooperation is not me finding the lowest possible price and then treating the other person as disposable.</p>\n<p>Students and people earlier in their careers may be building experience and portfolios. That can make a smaller, clearly scoped project a good fit. But I need to judge ability, agree the fee and deadline, and make sure the work is appropriate. Inexperience is not a magic discount that removes my responsibility to manage the project.</p>\n<p class=\"hit\">Get closer to the work. Make the job clear. Pay for the capability you actually need.</p>\n<p>A small, trusted team can move quickly because fewer things disappear into a chain of handoffs. That is the structure I look for before I buy the appearance of a much larger company.</p>",
+      "figures": [
+        {
+          "id": "a1-direct-team",
+          "kind": "network",
+          "title": "Keep ownership visible",
+          "caption": "A small team works best when the people responsible can communicate directly.",
+          "items": [
+            {
+              "label": "Sales",
+              "text": "Owns relevant customer conversations."
+            },
+            {
+              "label": "Delivery specialist",
+              "text": "Owns the product or service work."
+            },
+            {
+              "label": "Assistant",
+              "text": "Owns clearly defined support tasks."
+            },
+            {
+              "label": "Other specialist",
+              "text": "Brings a specific capability when needed."
+            }
+          ],
+          "center": "Founder / coordinator"
+        }
+      ]
+    },
+    {
+      "id": "hu1a-12",
+      "title": "Spend where the next constraint is.",
+      "short": "The office, the promotion and the €15,000 backend",
+      "intro": "When the first money starts arriving, I do not stop questioning purchases. Now I have to decide what deserves the money the business has earned.",
+      "takeaway": "A useful purchase solves an actual constraint; an impressive purchase may solve nothing.",
+      "source": {
+        "file": "HU1",
+        "start": "1:15:58",
+        "end": "1:24:29"
+      },
+      "body": "<p>It is very difficult to lose a lot of cash on an idea if I have not committed a lot of cash to it. That is why I keep coming back to the small start. I want you to look at an expense and ask whether you need it <em>now</em>.</p>\n<p>There is another side to that. An established business can fail by refusing to change. If customers move to a different way of buying and I keep clinging to the old operation, saving money is not automatically smart. The decision depends on what the business needs, not on whether spending feels good or bad.</p>\n<p data-verbatim=\"true\">I'm not saying don't invest. I'm not saying be stingy. I'm not saying any of that. I'm saying be careful and think, do I need to spend this money right now?</p>\n<p>Take the makeup business again. It is working from home. There are boxes around the bed, a laptop on the table and customers ordering from the website. Now I have money to spend. I might want an office. But how will that office change what the customer sees or bring more orders?</p>\n<p>If the answer is that it will make me feel more established, I leave it. If a useful promotion gets the product in front of more of the right people, that may deserve the budget first. <strong>I want a clear path from the expense to the improvement.</strong></p>\n<!--figure:a1-spending-constraint-->\n<p>I had somebody pitch me a complicated backend system for <strong>€15,000</strong>. When somebody bought a product, it would connect the purchase to their messaging-account identity, put them in the correct groups, check their other purchases and manage access automatically.</p>\n<p>I could see the appeal. But I already had competent people handling that work manually. Buyers were getting to the places they needed to be. I was happy with the staff-time equation. At that stage, the expensive new system did not answer the question I cared about: how would this get more of the right people through the front door?</p>\n<p>So I did not buy it just because somebody made it sound sophisticated. It might have had teething problems too. A complicated implementation can consume time before it saves anything. I wanted to know which problem I was paying to solve.</p>\n<p>If the manual process became overloaded and I could not keep up with delivery, that would be a different problem. Then automation could help me keep the promise. Or if a tool freed genuinely valuable capacity, I could compare that with the price. <mark>The same purchase can be premature today and sensible later.</mark></p>\n<p>Bring me the reason. More suitable customers, better delivery, useful time saved, a real bottleneck removed. Do not bring me jargon and hope I mistake it for a business case.</p>\n<p class=\"hit\">I am not buying a backend to admire a backend.</p>\n<p>I am buying a result. Tell me which result, why it matters now, and how we will know the purchase helped.</p>",
+      "figures": [
+        {
+          "id": "a1-spending-constraint",
+          "kind": "matrix",
+          "title": "What problem am I actually buying a solution for?",
+          "caption": "The right investment depends on the part of the operation that is holding progress back.",
+          "columns": [
+            "Current situation",
+            "Possible spending",
+            "Question before buying"
+          ],
+          "rows": [
+            [
+              "Too few suitable buyers",
+              "Promotion and distribution",
+              "Can this reach the right people?"
+            ],
+            [
+              "Manual delivery is overloaded",
+              "Capacity or automation",
+              "Will this help keep the promise?"
+            ],
+            [
+              "Work takes needless time",
+              "A better tool or process",
+              "Is the time saved useful and worth the cost?"
+            ],
+            [
+              "Everything works; I want status",
+              "Office or cosmetic upgrade",
+              "What changes for the business or customer?"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-13",
+      "title": "The business has to look after you too.",
+      "short": "Owner resilience and a changing market",
+      "intro": "I put so much into keeping my first agency alive that when it finally went down, I had very little to show for all the work.",
+      "takeaway": "Build personal resilience from real earnings while keeping the business able to meet its commitments.",
+      "source": {
+        "file": "HU1",
+        "start": "1:24:29",
+        "end": "1:31:58"
+      },
+      "body": "<p>I made a serious mistake with the advertising agency. I was so busy trying to keep the ship afloat that I did not look after my own position. I bought a car and paid myself a little, but most of what came in went straight back into keeping things moving.</p>\n<p>At the same time, I was trying to limit what my partner took out. The business needed money, and I kept choosing the business. When it collapsed, I was not sitting on a reserve that matched the work I had put in. I felt I could have come away with half a million if I had handled the whole operation differently.</p>\n<p data-verbatim=\"true\">The goal of a business is to make you rich.</p>\n<p>That is the way I frame the goal. The business is not a trophy I maintain forever just to say I own it. I want it to improve my position. If it requires every bit of money and every bit of energy simply to stay alive, I need to look hard at what I am protecting.</p>\n<!--figure:a1-owner-balance-->\n<p>The market changes too. My original television offer worked in a particular period. Later, a business could buy promotion from an online creator for something like <strong>£500</strong>, see the audience and track the clicks. That changed the conversation. I could not assume that the pitch I used years earlier would keep working in the same way.</p>\n<p>Or imagine I have three million from an online operation. If I pour all of it into a huge studio and the people doing the work leave, what position have I created for myself? A bigger operation is not automatically more security.</p>\n<p>Here is another example. I make videos in <strong>4K</strong>. A new camera costs <strong>20,000</strong> and also shoots in 4K, with extra features. Does the buyer need those features? Will they change the work I can sell or the promise I can keep? If not, I do not need the upgrade just because I like equipment. And I do not need to lie about what the existing camera can do.</p>\n<p>I remember large retail and catalogue collapses where directors came away with money while workers or customers were left suffering. In one catalogue story, the figure I remember was <strong>£7 million</strong> for the director and around <strong>ten thousand families</strong> losing the Christmas orders they had saved for. That is a brutal reminder that a company name and a busy bank account do not make everyone's interests the same.</p>\n<p>I am not turning that into permission to take money promised to customers, staff or creditors. <strong>Protect yourself from legitimate earnings. Keep the commitments covered.</strong> I need a balance between useful reinvestment, working money and owner compensation. Keeping a failing model alive at any cost is not the same thing as running a successful business.</p>\n<p class=\"hit\">Do not put years of work through the bank and finish with nothing but the story.</p>",
+      "figures": [
+        {
+          "id": "a1-owner-balance",
+          "kind": "comparison",
+          "title": "The money needs more than one job",
+          "caption": "A growing operation and a resilient owner both need room to function.",
+          "items": [
+            {
+              "label": "Keep commitments covered",
+              "text": "The work sold still has to be delivered and paid for."
+            },
+            {
+              "label": "Reinvest deliberately",
+              "text": "Fund improvements that matter to demand or delivery."
+            },
+            {
+              "label": "Build owner resilience",
+              "text": "Retain appropriate compensation and personal runway from sustainable earnings."
+            },
+            {
+              "label": "Review the model",
+              "text": "Do not keep feeding a structure that no longer works."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-14",
+      "title": "Answer the complaint. Study the business. Keep your runway.",
+      "short": "Three ways to stop operating on autopilot",
+      "intro": "Business lessons are not only in a pitch meeting. They are in the complaint you answer, the coffee shop you sit in and the job you have right now.",
+      "takeaway": "Stay curious about how money moves and keep enough stability to act on what you learn.",
+      "source": {
+        "file": "HU1",
+        "start": "1:31:58",
+        "end": "1:41:49"
+      },
+      "body": "<p>People ask me about reputation. Someone is unhappy. Someone is saying bad things. What do I do? I do not begin by pretending I can make every person happy. I begin by answering.</p>\n<p>If somebody is emailing me about a problem, I have a conversation I can work with. If I ignore them, I can turn a delivery problem into an anger problem. They feel they have to shout somewhere else because nobody is listening directly.</p>\n<p class=\"spoken-dialogue\">“You have a problem. Let's talk about it. What went wrong, and what can we work out?”</p>\n<p>Let the person explain. Even if they are difficult, I can keep the exchange clear and try to resolve the actual issue. I am not trying to prevent honest criticism. I am trying to remove a reason for the criticism by handling the job properly.</p>\n<!--figure:a1-service-recovery-->\n<p>Now, change how you look at the businesses around you. Most people go into a coffee shop, buy a coffee and sit down. I go in and look at the prices, how busy it is and what the operation might cost to run.</p>\n<p class=\"spoken-dialogue\">Could I make money here? What is the rent? What does a customer spend? Do cakes and sandwiches add to the sale? Who comes in, and why? If I opened next door, where could I do better?</p>\n<p data-verbatim=\"true\">I do it with every bar I'm in, every restaurant I'm in, every coffee shop I go in. Everything, even simple things, like even things I know nothing about, like mechanics. I don't know anything about fixing cars. Still, I look at the amount of cars they have around.</p>\n<p>I look at the labor they charge me for and the people doing that work. I ask where the owner fits into it. I do not know every cost. I can estimate, and I can keep the estimate separate from the facts I can see. The practice is what matters. I want to understand the mechanism rather than just consume the service.</p>\n<!--figure:a1-cafe-observer-->\n<p>Do the same online. Notice a difficult checkout, an unclear confirmation email, weak support or packaging that disappoints you. Remember it. When you build your own service, those little observations become things you know to fix.</p>\n<p>Then look at your current job. Where could you make a useful improvement? More calls? Faster follow-up? A better way of doing a recurring task? If the extra contribution is real, talk about an incentive that makes sense.</p>\n<p class=\"spoken-dialogue\">“I think this will help the business. Let me prove it. If it works, I want us to agree how that contribution is rewarded.”</p>\n<p>I worked in an online-advertising company after my first agency failed. We sold websites, search-related services and hosting. I still wanted my own business, but I could not afford to walk away from the wage. So my brother pitched a new television operation from home while I stayed employed.</p>\n<p>That venture never became huge. I landed three or four deals and brought in perhaps two or three hundred thousand over a year. That is turnover, not a statement of profit. I also mixed my employer's time and leads with my own work; do not use that part as a model. Keep your side venture separate and respect the obligations you already have.</p>\n<!--figure:a1-job-runway-->\n<p>The important point is that I did not need to quit before testing the idea. <span data-verbatim=\"true\">When your hustle's rolling and you know the money's coming in, then quit.</span> Until then, the job can be runway. A dramatic resignation does not answer the customer question for you.</p>\n<p class=\"hit\">Is money coming in? No? Then tell me why quitting is the first job.</p>",
+      "figures": [
+        {
+          "id": "a1-service-recovery",
+          "kind": "flow",
+          "title": "Keep the conversation useful",
+          "caption": "A response is the start of recovery, not the same thing as a resolution.",
+          "items": [
+            {
+              "label": "Hear the problem",
+              "text": "Acknowledge the customer instead of disappearing."
+            },
+            {
+              "label": "Understand",
+              "text": "Find out what happened and what was promised."
+            },
+            {
+              "label": "Agree a remedy",
+              "text": "Be clear about the action and timing."
+            },
+            {
+              "label": "Follow through",
+              "text": "Complete the agreed response."
+            }
+          ]
+        },
+        {
+          "id": "a1-cafe-observer",
+          "kind": "matrix",
+          "title": "Look at the cafe like an operator",
+          "caption": "Observe what is visible and label the unknown costs as estimates.",
+          "columns": [
+            "What I notice",
+            "What I ask"
+          ],
+          "rows": [
+            [
+              "Prices and baskets",
+              "What does a customer typically buy?"
+            ],
+            [
+              "Traffic and space",
+              "How much demand and capacity can I see?"
+            ],
+            [
+              "Staffing and premises",
+              "Which costs does the operation need to cover?"
+            ],
+            [
+              "Service and extra products",
+              "Where could the experience or sale improve?"
+            ]
+          ]
+        },
+        {
+          "id": "a1-job-runway",
+          "kind": "steps",
+          "title": "The job can fund the learning period",
+          "caption": "Keep the venture separate from employer resources while the idea earns evidence.",
+          "items": [
+            {
+              "label": "Keep stability",
+              "text": "Use existing income to protect basic runway."
+            },
+            {
+              "label": "Test alongside it",
+              "text": "Build a small offer and find real buyers."
+            },
+            {
+              "label": "Check the pattern",
+              "text": "Look for repeatable income and reliable delivery."
+            },
+            {
+              "label": "Choose the transition",
+              "text": "Leave when the evidence and personal situation support it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-15",
+      "title": "Do not race to the bottom. Learn, then get noticed.",
+      "short": "Value, listening and useful attention",
+      "intro": "A cheaper price is not the only way to win a sale. I need an offer people want, the judgment to keep learning and a way for buyers to notice it.",
+      "takeaway": "Make the offer worth paying for, listen to useful experience, and connect attention to a real next step.",
+      "source": {
+        "file": "HU1",
+        "start": "1:41:49",
+        "end": "1:55:38"
+      },
+      "body": "<p data-verbatim=\"true\">You do not want to compete on price.</p>\n<p>My advertising agency tried being extremely cheap, and you have seen what that did to the margin. There are people with production costs I cannot match. I remember seeing phone cases for eighty-nine cents, including delivery from overseas. I do not know how that seller made the arithmetic work. I do know I did not want that to be my only contest.</p>\n<p>I want the customer to understand the quality, the service and the result. I want a reputation that makes the price believable. If I can only get a sale by cutting the price again, I ask whether the offer is clear and whether people have a reason to trust it.</p>\n<p>I saw people selling small digital books for thirteen or seventeen dollars while I was selling my own material at a discounted price of nine hundred and ninety-nine. The number alone does not prove quality. My point is that the customer has to see enough value to choose the offer. I cannot hide a weak product behind a high price any more than I can rescue a broken margin with a low one.</p>\n<!--figure:a1-value-ladder-->\n<p>Imagine there are only a hundred people in the audience who are likely to buy today. A stronger offer can improve what each sale is worth. That may be more realistic than assuming I can find an unlimited supply of new customers. Even an audience around thirty thousand does not mean thirty thousand people are ready to buy, and growing an audience can be slow.</p>\n<p>I want prices supported by value, not by embarrassment about charging. But I still have to respect what customers can afford and what the market actually does. “People never care about price” is too simple. I am choosing to build reasons to buy beyond being cheapest.</p>\n<p>Next: stop using every business conversation to talk about yourself.</p>\n<p data-verbatim=\"true\">Anyone who's making money one way or another knows something you don't know. There's a lesson everywhere.</p>\n<p>If I meet somebody who understands a business I do not, I want them talking. I already know my own story. Repeating my turnover or explaining how clever I am does not give me new information.</p>\n<p data-verbatim=\"true\">Let other people talk. Learn. Learn from other people who are making money. Even if they're in an industry which is completely different to yours. It doesn't make a difference.</p>\n<p>My old partner had serious personal problems. He still taught me a great deal about advertising and sales. I can learn a skill from someone without adopting every choice they make.</p>\n<p>We also tried re-pitching hesitant prospects through another business identity, offering eighteen thousand after the original nineteen-thousand proposal stalled. The useful question underneath is whether a different offer or position fits a different buyer. I would not turn concealed common ownership into the tactic. Make the relationship and the terms honest.</p>\n<p>Now think about attention. Advertising buys it. Creative work can earn some without an advertising invoice, though it still costs time. I once made a provocative online thread about a popular film series. As it attracted replies, I kept bringing the conversation back to my website. Getting noticed and having an offer were connected.</p>\n<!--figure:a1-attention-path-->\n<p>A vehicle-wrapping business owner painted a huge mural on the side of the workshop. I asked what it cost: <strong>$3,000</strong>. He told me it had brought in more work and paid for itself. Drivers saw the wall, saw the creativity and wanted that creativity on their own vehicles. The wall showed the skill instead of merely naming the service.</p>\n<p>I would ask the same questions about a sign, a sponsorship or a memorable event appearance. A dinosaur costume with the business name visible is a deliberately silly example, but people might remember it. Which businesses in my field get attention? How do they do it? Can I find a way that suits my offer?</p>\n<p>I learned this in online adult services too. It was crowded. I could imagine a hundred thousand performers competing for viewers, so simply being present was not enough. We worked on thumbnails, an interesting room, remembering a customer's name, even remembering their pet's name. Small details made a returning visitor feel recognized.</p>\n<p class=\"hit\">Get noticed. Give the attention somewhere useful to go. Then deliver.</p>\n<p>I do not need every kind of attention. Empty arguments and damaged trust can cost me. I want the kind that helps suitable people understand why the work is worth their time and money.</p>",
+      "figures": [
+        {
+          "id": "a1-value-ladder",
+          "kind": "ladder",
+          "title": "Give the price a reason",
+          "caption": "A stronger position needs something real underneath it.",
+          "items": [
+            {
+              "label": "Useful offer",
+              "text": "A result the customer actually wants."
+            },
+            {
+              "label": "Visible quality",
+              "text": "Work that demonstrates the promise."
+            },
+            {
+              "label": "Earned trust",
+              "text": "Evidence, service and reliable delivery."
+            },
+            {
+              "label": "Supported price",
+              "text": "A price the intended buyer can understand."
+            }
+          ]
+        },
+        {
+          "id": "a1-attention-path",
+          "kind": "flow",
+          "title": "Attention needs a destination",
+          "caption": "Visibility is an opening, not the completed business.",
+          "items": [
+            {
+              "label": "Notice",
+              "text": "A distinctive example, image, story or demonstration."
+            },
+            {
+              "label": "Understand",
+              "text": "The buyer sees what the offer does."
+            },
+            {
+              "label": "Choose",
+              "text": "A clear and relevant way to buy."
+            },
+            {
+              "label": "Return",
+              "text": "Good delivery gives the customer a reason to come back."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hu1a-16",
+      "title": "Know the motive. Choose the company. Work today.",
+      "short": "Customer goals, a useful network and a live pipeline",
+      "intro": "I want to know why people buy, who I am learning and working with, and what I am doing today. Those are connected decisions.",
+      "takeaway": "Understand the goal, build reciprocal relationships and keep the pipeline moving without counting money that has not arrived.",
+      "source": {
+        "file": "HU1",
+        "start": "1:55:38",
+        "end": "2:10:00"
+      },
+      "body": "<p>What does the customer actually want? I do not stop at the ingredient list or the specification. People often buy because of a change they want in their lives: confidence, convenience, a better result, a feeling of belonging or progress.</p>\n<p>Clothes can be about how a person wants to look and feel. An expensive car can be about the identity a buyer wants to project. In an adult online service, attention and feeling wanted can matter as much as the screen itself. I need to understand the motive if I want to understand the purchase.</p>\n<p>That can go wrong very quickly. I have described selling through insecurity, and in that industry there were people being led to imagine a personal relationship that was not real. <strong>Do not build your offer on a fake relationship or manufacture a fear you cannot honestly resolve.</strong> Understanding what somebody wants is useful. Exploiting their vulnerability is a different choice.</p>\n<p>Take a protein drink as an example. I can list the flavor, carbohydrate content and sugar. Those are features. The buyer may be thinking about training and the result they want. Connect the feature to the relevant benefit, but keep the claim true. I cannot honestly tell them all their exercise is wasted without my particular drink. That is not a business insight; it is an unsupported claim.</p>\n<!--figure:a1-feature-goal-->\n<p class=\"hit\">Know the result the customer wants. Explain the help you can actually give.</p>\n<p>Now go back to the coffee shop. Who is sitting with you? Are they interested in how the business works? Can you discuss the prices, rent, staffing, gaps in the market and mistakes you can see? The people around me affect the conversations I have and the actions I consider normal.</p>\n<p data-verbatim=\"true\">You're a node in the network. That's how networks work. You've got nodes and you've got links. You come into the network. You're a node. You know people. You help them. They help you, et cetera. Network is everything.</p>\n<p>I want people in my professional circle who follow through, think about what they are building and share useful information. I can introduce somebody. They can help me understand a market or solve a problem. I can work with a person whose strengths complement mine. The value comes from those links doing something.</p>\n<!--figure:a1-useful-network-->\n<p>If my friends are interested in a project, I can organize roles. One person takes this part, another takes that part, and we agree the goal. If they do not want to do it, I need other collaborators for the project. I do not need to turn somebody's refusal into a verdict on their worth as a person. A business network and an entire personal life are not the same thing.</p>\n<p>I built an international professional group because I wanted people around me who were working on increasing income and building things. The group itself is not magic. It still comes down to useful people, useful contributions and action. Find the relationships where that exchange is real.</p>\n<p>Then learn to control the excitement. You start seeing money, or you think a big deal is about to close. Good. Be pleased. But do not let the feeling replace the next job.</p>\n<p data-verbatim=\"true\">Money comes into the door on Tuesday. On Wednesday, do you know what I do?</p>\n<p>I get up and look for the next useful business. I do not spend Wednesday explaining how good Tuesday was. A past sale is a past sale. A possible sale is still possible. <mark>Neither is a reason to stop doing today's work.</mark></p>\n<!--figure:a1-pipeline-time-->\n<p>I knew salespeople who would sit in the office with their coffee, laughing about four strong leads that were supposed to come in. They would talk as if they already had the money. Perhaps only two deals came through. Even if all four had arrived, they could have used that time to create the next conversation.</p>\n<p>In my online operation, we sometimes had a very busy day with every room active and customers joining friendly competitions. I could make twelve or thirteen thousand dollars in a day after the performers had been paid. Then the next day people wanted to ease off because yesterday had been so good.</p>\n<p>My answer was that today still needed its own work. <span data-verbatim=\"true\">Yesterday, I don't live in yesterday. I live in today. And the only day that's coming for me is tomorrow. Yesterday is gone.</span> That is how I stop a result from becoming an excuse. It does not mean savings cease to exist or people do not need rest. It means I keep a live view of what comes next.</p>\n<p>I have seen somebody make money, take their foot off the gas, then announce they had a terrible year when the pipeline dried up. Do not confuse a short burst of success with a system that keeps producing. Keep an eye on the current work, the next buyers and the money that has actually arrived.</p>",
+      "figures": [
+        {
+          "id": "a1-feature-goal",
+          "kind": "flow",
+          "title": "From feature to the customer's goal",
+          "caption": "A useful benefit must be connected to what the product can honestly do.",
+          "items": [
+            {
+              "label": "Feature",
+              "text": "What the offer contains or does."
+            },
+            {
+              "label": "Practical benefit",
+              "text": "How that feature helps in use."
+            },
+            {
+              "label": "Customer goal",
+              "text": "Why that help matters to this buyer."
+            },
+            {
+              "label": "Honest claim",
+              "text": "Keep the promise within what I can support."
+            }
+          ]
+        },
+        {
+          "id": "a1-useful-network",
+          "kind": "network",
+          "title": "Make the links useful",
+          "caption": "A network works through reciprocal contributions, not simply knowing names.",
+          "items": [
+            {
+              "label": "Knowledge",
+              "text": "Someone explains a market or a method."
+            },
+            {
+              "label": "Introductions",
+              "text": "A relevant connection opens a conversation."
+            },
+            {
+              "label": "Complementary skills",
+              "text": "People can build something together."
+            },
+            {
+              "label": "Follow-through",
+              "text": "Promises become completed work."
+            }
+          ],
+          "center": "Give and receive value"
+        },
+        {
+          "id": "a1-pipeline-time",
+          "kind": "timeline",
+          "title": "Past result, present action, future possibility",
+          "caption": "I can learn from what happened and influence what happens next. I cannot spend a merely possible sale.",
+          "items": [
+            {
+              "label": "Past",
+              "text": "Finished sales and lessons to carry forward."
+            },
+            {
+              "label": "Present",
+              "text": "Delivery, follow-up and creating useful new conversations."
+            },
+            {
+              "label": "Future",
+              "text": "Leads and possible deals; cash is not collected yet."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
